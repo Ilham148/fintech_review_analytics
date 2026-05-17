@@ -1,0 +1,14 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.pyc
+
+# Environment files (secret keys, passwords)
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / Editor folders
+.vscode/
+.idea/
