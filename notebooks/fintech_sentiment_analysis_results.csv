@@ -1,0 +1,1458 @@
+review_id,review_text,sentiment_label,sentiment_score,identified_theme
+0,excellent,POSITIVE,0.9998434782028198,Other
+1,good luck with your job i,POSITIVE,0.9997720122337341,Other
+2,Ethiopian bank,POSITIVE,0.9495111107826233,Other
+3,best one,POSITIVE,0.999826967716217,Other
+4,mohammad Ahmed ibro,POSITIVE,0.9209955334663391,Other
+5,trash,NEGATIVE,-0.99972003698349,Other
+6,poor app,NEGATIVE,-0.9997596144676208,Other
+7,Nice,POSITIVE,0.9998552799224854,Other
+8,nice vv,POSITIVE,0.9998384714126587,Other
+9,እጅግ በጣም አሪፍ አፕ ነው። ነገር ግን የስልክ ቀፎ በቀየርኩ ቁጥር አንደገና ወደ ባንክ መመላለሱን የሚቀርፍ ተጨማሪ ሲስተም ኦንላይን ቬሪፍይ ማድረግ ቢቻል እላለው።,NEGATIVE,-0.9608840346336365,Other
+10,good,POSITIVE,0.9998161196708679,Other
+11,I hate this app for it's subscription fee monthly six 6 ETB,NEGATIVE,-0.998955488204956,Other
+12,this app is very important to done our work,POSITIVE,0.9990597367286682,Other
+13,so nice,POSITIVE,0.9998610019683838,Other
+14,nice,POSITIVE,0.9998552799224854,Other
+15,"fast, easy, and save time.",POSITIVE,0.9947782754898071,UX
+16,it was good!!!,POSITIVE,0.9998469352722168,Other
+17,CBE our pride,POSITIVE,0.997941792011261,Other
+18,i love this bank and mobile banking of Comercial bank of Ethiopia,POSITIVE,0.9997641444206238,Other
+19,ይህ አፕ ለምንድነው ሌላ ቀፎ ውስጥ ያለውን SIM ፕኒ ኮድ ስናስገባ የማይሠራው እባካችው ሲቢ አካውንት ያለበት በዚህ ቀፎ ስለማይገባ እንዴት አድርጌ ሌላ ቀፎ ውስጥ ያለውን CBE አካውንት በዚህ ፎን መጠቀም እንደምችል ምከሩኝ፡፡,NEGATIVE,-0.9651386737823486,Other
+20,good,POSITIVE,0.9998161196708679,Other
+21,"bad at processing, wht do u mean by I can't make payment out of now where when I don't have no money or atm in my pocket this is really bad payment methods I wish I could give u guys 0 star",NEGATIVE,-0.9996644258499146,Features
+22,good,POSITIVE,0.9998161196708679,Other
+23,simple to use,POSITIVE,0.9970622658729553,Other
+24,commerali bank,POSITIVE,0.5429373979568481,Other
+25,good,POSITIVE,0.9998161196708679,Other
+26,Good,POSITIVE,0.9998161196708679,Other
+27,I have an account of cbe when i open the account it says you are blocked ? why ???,NEGATIVE,-0.9996564388275146,Account
+28,👌👌👌,NEGATIVE,-0.6970561742782593,Other
+29,What an excellent app with smooth performance !!,POSITIVE,0.9998496770858765,Other
+30,በጣም ጥሩ ነው እነማሰግነለን,NEGATIVE,-0.8616322875022888,Other
+31,very very good 👍 thanks commercial bank of ethiopia 🤩😘💯,POSITIVE,0.9998311996459961,Other
+32,fantastic,POSITIVE,0.9998743534088135,Other
+33,very nice,POSITIVE,0.9998563528060913,Other
+34,f*k,NEGATIVE,-0.7003702521324158,Other
+35,The Bank You can Always Rely on!,POSITIVE,0.998296320438385,Other
+36,Please make the CBE Noor toggle to be optional just because I have another account that happened to be CBE Noor it doesn't mean I want to see the moon and mecca. I have to be able to disable it. the toggle doesn't work it changes back everytime it refreshes. it is really annoying,NEGATIVE,-0.9987953901290894,Account
+37,Amazing App,POSITIVE,0.9998670816421509,Other
+38,It stopped working on its own. When you check your balance it does not show the amount before deductions.,NEGATIVE,-0.9994508624076843,Other
+39,"The most backward and unstable financial app in the market. It requires updates in which nothing changes, it is slow snd just an annoying application. Don't install it!",NEGATIVE,-0.9996647834777832,Stability
+40,Good,POSITIVE,0.9998161196708679,Other
+41,🤙🏼🤙🏼,NEGATIVE,-0.6970561742782593,Other
+42,worst,NEGATIVE,-0.9998016953468323,Other
+43,this app very full,POSITIVE,0.9974485039710999,Other
+44,good apps,POSITIVE,0.9998608827590942,Other
+45,"this update got crazy i don't know what's going on this app it's mal functional and loading........... like 2G ,Haha",NEGATIVE,-0.9995130300521851,Other
+46,thanks for you 😘,POSITIVE,0.9996215105056763,Other
+47,it's okay,POSITIVE,0.9998279809951782,Other
+48,It's not allowing me to transfer money.,NEGATIVE,-0.9968652129173279,Features
+49,IT'S NOT WORK ON HUAWEI DEVICES,NEGATIVE,-0.9996907711029053,Other
+50,wow,POSITIVE,0.999592125415802,Other
+51,nice app,POSITIVE,0.9998061060905457,Other
+52,formative,POSITIVE,0.9988852143287659,Other
+53,best app for financial activities 🙌,POSITIVE,0.996807873249054,Other
+54,yoroo namaste 🙏 ♥️ ❤️ 💖 💖,NEGATIVE,-0.8904678821563721,Other
+55,incredible,POSITIVE,0.9998753070831299,Other
+56,best app for financial sector,POSITIVE,0.9991656541824341,Other
+57,it's a good application,POSITIVE,0.9998661279678345,Other
+58,is good,POSITIVE,0.9998394250869751,Other
+59,wow,POSITIVE,0.999592125415802,Other
+60,Good application,POSITIVE,0.999854564666748,Other
+61,"Nice, but I can't get some recently transactions. please try to keep all history scrolling full visibility done.",NEGATIVE,-0.9879258871078491,Other
+62,Very Secure but very poor interface and limited history service. The new colorful version is worst. Visibility and contrast are low. It is just my idea.,NEGATIVE,-0.9997770190238953,UX
+63,very nice 100%,POSITIVE,0.9998635053634644,Other
+64,good,POSITIVE,0.9998161196708679,Other
+65,Good to use,POSITIVE,0.9998455047607422,Other
+66,cbe,POSITIVE,0.9966009855270386,Other
+67,Cbe,POSITIVE,0.9966009855270386,Other
+68,best and secured,POSITIVE,0.9998188614845276,Other
+69,best,POSITIVE,0.9997941851615906,Other
+70,good,POSITIVE,0.9998161196708679,Other
+71,why is my transaction fee hidden? Why doesn't the app show some of the transaction fees before. eg vat 15% show it togather before confirmation not after it feels like a scam.,NEGATIVE,-0.9988546371459961,Other
+72,Gal✅😶‍🌫️,NEGATIVE,-0.6970561742782593,Other
+73,posetive,POSITIVE,0.9818595051765442,Other
+74,this app is so functional for airtime for wallet and,NEGATIVE,-0.9154265522956848,Features
+75,very amazing app,POSITIVE,0.9998725652694702,Other
+76,excellent service,POSITIVE,0.9998576641082764,Other
+77,There is a a problem when updating the app,NEGATIVE,-0.9989816546440125,Other
+78,good,POSITIVE,0.9998161196708679,Other
+79,good,POSITIVE,0.9998161196708679,Other
+80,smart app,POSITIVE,0.999789297580719,Other
+81,"Internet Based mobile app for CBEBirr A Internet Based mobile app for CBEBirr. With the new Internet based CBEBirr Mobile App you can make every operations applicable via the USSD version of CBEBirr. This app version is the latest version branded as CBEBirr Plus, CBEBirr+, CBE Birr +, or CBE Birr plus.",NEGATIVE,-0.9887336492538452,Other
+82,CBE it's my excellent choice,POSITIVE,0.9997592568397522,Other
+83,fast and time saving...,POSITIVE,0.9994866847991943,Other
+84,yesisgood,POSITIVE,0.9984375834465027,Other
+85,so good,POSITIVE,0.999841570854187,Other
+86,"The app is getting worse and worse after every ""update"". The UI is inconsistent, you haven't fixed the issue with Mpesa wallet transfer ( the ""begin 0, end 1, length 0"" error after ever transfer attempt) ; now the tellbirr transfer raises ""Bucket override O-10094"" error. Test your work FULLY before release.",NEGATIVE,-0.9996129870414734,Stability
+87,iam happy excellent app,POSITIVE,0.9998611211776733,Other
+88,is not work properly !!,NEGATIVE,-0.9997790455818176,Other
+89,አሪፍ አፕ ነው ገራሚ ሁኖ አግኝቼዋለሁ,NEGATIVE,-0.9046947360038757,Other
+90,When I update this app there isn't working,NEGATIVE,-0.9995754361152649,Other
+91,thanks you so much 👍 okay I am going to be like in,POSITIVE,0.9997941851615906,Other
+92,Best ever,POSITIVE,0.999841570854187,Other
+93,features በጣም ወድጄዋለሁ ነገር ግን አንድ ችግር አይቼዋለሁ ።APPU DELETE በሆነ ጊዜ ቅርንጫፍ ማመላለሱና MB APPLICATION FORMAT ላይ በየጊዜው መፈረሙ አንድ ለባንኩ ወጪ ነው ሁለት ለደንበኞች Inconvenience ይፈጥራል አስተካክሉ,NEGATIVE,-0.9980064034461975,Other
+94,best,POSITIVE,0.9997941851615906,Other
+95,goood g,NEGATIVE,-0.9891290664672852,Other
+96,I like so much,POSITIVE,0.9998633861541748,Other
+97,This app has never been efficient at all,NEGATIVE,-0.9997796416282654,Other
+98,nice app.,POSITIVE,0.9998321533203125,Other
+99,"While the option to create or cancel standing orders has been added, it is not functional. Similarly, adding a new beneficiary is also not working. Please fix.",NEGATIVE,-0.9998015761375427,Other
+100,Wonderful App ❤️❤️❤️ I love it,POSITIVE,0.9998841285705566,Other
+101,i like it,POSITIVE,0.9998593330383301,Other
+102,best,POSITIVE,0.9997941851615906,Other
+103,vary good app,POSITIVE,0.9998146891593933,Other
+104,good,POSITIVE,0.9998161196708679,Other
+105,good,POSITIVE,0.9998161196708679,Other
+106,good,POSITIVE,0.9998161196708679,Other
+107,nice,POSITIVE,0.9998552799224854,Other
+108,easy to use but hard to find easily,NEGATIVE,-0.988560140132904,UX
+109,fixed problem,NEGATIVE,-0.9913551211357117,Other
+110,በእውነት የሚገርም app ነው ነገሮችን ሁሉ ቀለል ያደርጋል,NEGATIVE,-0.9388996958732605,Other
+111,good,POSITIVE,0.9998161196708679,Other
+112,good,POSITIVE,0.9998161196708679,Other
+113,best app,POSITIVE,0.999686598777771,Other
+114,Good Application,POSITIVE,0.999854564666748,Other
+115,Good app,POSITIVE,0.9998493194580078,Other
+116,መስተካከል አለብት ብዩ አስታየት የም ሰጠው አካውንንት በስም ሲፈለግ mr ብሎ ቀጣይ ስም ለመፃፍ እስፔስም አይፈቅድ ቀጣዩ ፊደልም ሲፃፍ አይፅፍም ይሄ ቢስተካከል ይበልጥ ቀላል የረገዋል ብዩ አስበለው,NEGATIVE,-0.9670157432556152,Other
+117,why it alaways asked me to update every second when I log in.,NEGATIVE,-0.9971964359283447,Other
+118,pls update my cbe mobile banking,NEGATIVE,-0.9723127484321594,Other
+119,good,POSITIVE,0.9998161196708679,Other
+120,"Easy, secure and user friend",POSITIVE,0.9988741278648376,UX
+121,nice,POSITIVE,0.9998552799224854,Other
+122,hiote tegayede,POSITIVE,0.8946158289909363,Other
+123,misraqe,NEGATIVE,-0.9931067824363708,Other
+124,excellent app,POSITIVE,0.9998356103897095,Other
+125,usefull app,POSITIVE,0.9953721165657043,Other
+126,nice bank,POSITIVE,0.9998055100440979,Other
+127,good 👍,POSITIVE,0.9998576641082764,Other
+128,it's no functional problem,NEGATIVE,-0.9982454776763916,Other
+129,Tamam Yunus Guddata,NEGATIVE,-0.9828091263771057,Other
+130,good,POSITIVE,0.9998161196708679,Other
+131,It's not working after the update it doesn't open at all,NEGATIVE,-0.9997859597206116,Other
+132,nice,POSITIVE,0.9998552799224854,Other
+133,excellent app,POSITIVE,0.9998356103897095,Other
+134,Good,POSITIVE,0.9998161196708679,Other
+135,CBE not compare to others,NEGATIVE,-0.9168756604194641,Other
+136,good,POSITIVE,0.9998161196708679,Other
+137,good,POSITIVE,0.9998161196708679,Other
+138,nice app thanks,POSITIVE,0.9998416900634766,Other
+139,Great,POSITIVE,0.9998630285263062,Other
+140,good service,POSITIVE,0.9998499155044556,Other
+141,"It is so good,and easy to use.",POSITIVE,0.9998791217803955,UX
+142,great app,POSITIVE,0.999821126461029,Other
+143,update is not downgrade. its literally not working,NEGATIVE,-0.9936172962188721,Other
+144,Please consider optimizing the app for Huawei Mobile Services (HMS). It doesn't work after the update.,NEGATIVE,-0.9996885061264038,Other
+145,please use the cute ui as a professional developer,POSITIVE,0.9969793558120728,UX
+146,Daily Of the day Transfer Limit Restriction If there wasn't If it didn't have Very Extremely Happy We would be.,NEGATIVE,-0.9949807524681091,Features
+147,best,POSITIVE,0.9997941851615906,Other
+148,Amazing,POSITIVE,0.999875545501709,Other
+149,it's better than before,POSITIVE,0.9998137354850769,Other
+150,worst apk for a big bank,NEGATIVE,-0.9997958540916443,Other
+151,doesn't work properly with safaricom network.,NEGATIVE,-0.9997656941413879,Other
+152,"The app forcefully made me an update, since then every time I try to make a payment it keeps bugging and failing non stop. please fix that . this is a big company not a start up .",NEGATIVE,-0.9995286464691162,Stability
+153,good,POSITIVE,0.9998161196708679,Other
+154,I found that when i am using safaricom network the app keeps crashing a lot and not working and as soon as i change the network it will work smoothly so make is a lot compatible with the safaricom network service.,POSITIVE,0.9555947184562683,Stability
+155,go ahead,POSITIVE,0.999769389629364,Other
+156,nice,POSITIVE,0.9998552799224854,Other
+157,i like it,POSITIVE,0.9998593330383301,Other
+158,Good,POSITIVE,0.9998161196708679,Other
+159,cbe mobile app best app,POSITIVE,0.998684823513031,Other
+160,"easy for use,and good privacy",POSITIVE,0.9994780421257019,UX
+161,amazing,POSITIVE,0.999875545501709,Other
+162,i really judged this app. 99% were profit exclusive for others only with organization benefit.,NEGATIVE,-0.9830779433250427,Other
+163,unable to use it is not performed well,NEGATIVE,-0.9997864365577698,Other
+164,ወከቀቀ,NEGATIVE,-0.6970561742782593,Other
+165,Nice,POSITIVE,0.9998552799224854,Other
+166,This app is very good and helpful I am Happy working with cbe mobile banking tanx all members and I am ready invite all my family and friends ❤️,POSITIVE,0.9998387098312378,Other
+167,Samsung A-5360 is not my device and i did not opened by this,NEGATIVE,-0.9985318183898926,Other
+168,notwork totransferto other,NEGATIVE,-0.9960225820541382,Features
+169,good,POSITIVE,0.9998161196708679,Other
+170,የCommercial Bank of Ethiopia ሞባይል ባንኪንግ አገልግሎት በአጠቃላይ ጠቃሚ ነው፣ ግን አንድ ችግር አጋጥሞኛል። የሂሳብ ቁጥር በምናስገባበት ሳጥን ላይ “Mr” ወይም “Mrs” ከሚለው ቀጥሎ ያለውን ስም ለማስገባት ስፔስ (space) መጠቀም አይቻልም። ይህ ተጠቃሚዎችን ስም ትክክለኛ ለማስገባት እንዲቸገሩ ያደርጋል። እባክዎ በዚህ ክፍል ስፔስ መጠቀም እንዲቻል ወይም የስም መሙያ ስርዓቱን እንዲሻሻል ቢያደርጉ በጣም ጥሩ ይሆናል።,NEGATIVE,-0.9334600567817688,Other
+171,🫶👍🙏,NEGATIVE,-0.6970561742782593,Other
+172,good,POSITIVE,0.9998161196708679,Other
+173,I am very comfortable because we can easily access various transfer services that we used to have to go to the bank.,POSITIVE,0.9990236759185791,Features
+174,good app,POSITIVE,0.9998493194580078,Other
+175,i am so happy,POSITIVE,0.9998812675476074,Other
+176,good,POSITIVE,0.9998161196708679,Other
+177,The recent update is trash. I couldn't refresh the page. It's not even trying to sync. Please fix the bug and release a clean version.,NEGATIVE,-0.9996129870414734,Stability
+178,good job,POSITIVE,0.999835729598999,Other
+179,I'm from Ethiopia and proud of CBE service app.,POSITIVE,0.9996950626373291,Other
+180,I am successful with app,POSITIVE,0.9998397827148438,Other
+181,everything is boaring the previous one is good,POSITIVE,0.999785840511322,Other
+182,best,POSITIVE,0.9997941851615906,Other
+183,good,POSITIVE,0.9998161196708679,Other
+184,good app but it needs more languages do it with more than four languages,NEGATIVE,-0.9735730290412903,Other
+185,good work,POSITIVE,0.9998413324356079,Other
+186,wow app.The developers make improvements every time.,POSITIVE,0.9996693134307861,Other
+187,nice and perfect,POSITIVE,0.9998654127120972,Other
+188,best experience,POSITIVE,0.9996858835220337,Other
+189,the best,POSITIVE,0.9998332262039185,Other
+190,What's wrong after i update the app unable to open,NEGATIVE,-0.9997888207435608,Other
+191,nice,POSITIVE,0.9998552799224854,Other
+192,👍👍it is good. pls Hide the amount that appear on the top when we need to transfer🙏,POSITIVE,0.99936443567276,Features
+193,not sure at the moment,NEGATIVE,-0.99964439868927,Other
+194,Good,POSITIVE,0.9998161196708679,Other
+195,it's the best app i have every seen it is fast and securty,POSITIVE,0.9980030655860901,Other
+196,Useful apps,POSITIVE,0.9994015693664551,Other
+197,easy to use,POSITIVE,0.9988542795181274,UX
+198,waw,NEGATIVE,-0.7346187829971313,Other
+199,"This app used to work well, but now it constantly shows an error saying it can’t load my accounts and tells me to visit a branch. I’m not even in the country, so that’s not possible. The app has frequent issues and needs better reliability and remote support options.",NEGATIVE,-0.99909508228302,Stability
+200,Very good,POSITIVE,0.9998520612716675,Other
+201,አዲሱ ገጽታው በጣም ያስጠላል። ለአይን ይከብዳል። ወደነበረበት ብትመልሱት።,NEGATIVE,-0.9445853233337402,Other
+202,I like it but sometimes there is a system error,NEGATIVE,-0.9990566372871399,Stability
+203,good,POSITIVE,0.9998161196708679,Other
+204,"the app keeps asking for update, even after being updated",NEGATIVE,-0.9912922978401184,Other
+205,"This application was not that great, and its performance has unfortunately declined further. For the past week, I have been unable to access my balance or transfer funds. This situation is causing considerable concern and inconvenience, as I cannot access my money in a timely manner. This has resulted in late payments and a loss of confidence and trust. Furthermore, I have not received a response to my message to the customer support team",NEGATIVE,-0.9997740387916565,Features
+206,good,POSITIVE,0.9998161196708679,Other
+207,like,POSITIVE,0.9910564422607422,Other
+208,Good !,POSITIVE,0.9998268485069275,Other
+209,good,POSITIVE,0.9998161196708679,Other
+210,good,POSITIVE,0.9998161196708679,Other
+211,very good cbe app,POSITIVE,0.9998026490211487,Other
+212,tel birr,NEGATIVE,-0.9480341076850891,Other
+213,halaba kuleto,NEGATIVE,-0.6842421889305115,Other
+214,best app ever,POSITIVE,0.9997491240501404,Other
+215,it's good app for ease of access mobile banking transaction and use our time properly!,POSITIVE,0.999681830406189,Other
+216,"pls make an option fingerprint Biometric payment only, it's fast and secure to pay",POSITIVE,0.9271588921546936,Features
+217,በጣም ቀላልና ፈጣን ለመጠቀም ወድጀዋለሁ,NEGATIVE,-0.8832126259803772,Other
+218,I love this up to much eollahi,POSITIVE,0.9998741149902344,Other
+219,I hope this bank have excellent Mobile app but still not easy and not working in holidays why,NEGATIVE,-0.9942612648010254,UX
+220,best,POSITIVE,0.9997941851615906,Other
+221,"It's a great, easy-to-use, very convenient and secure app.",POSITIVE,0.9996656179428101,UX
+222,Good Job,POSITIVE,0.999835729598999,Other
+223,best,POSITIVE,0.9997941851615906,Other
+224,Best app.,POSITIVE,0.999774158000946,Other
+225,it's so use full and secure 👍💪👌,NEGATIVE,-0.518190324306488,Other
+226,"there should be atm voucher access included , and also the app crash sometimes .",NEGATIVE,-0.9989251494407654,Stability
+227,"The app has some issues we need to have a place where we save our contacts where we usually send money to, after update I keep loosing all the important accounts.Also user needs to configure their notification types we want to receive either by email ,SMS or both. right now I don't get any notifications when I receive funds from companies.",NEGATIVE,-0.998993456363678,Account
+228,after the the recent update the app not responding. even transfer to telebirr isn't working.,NEGATIVE,-0.9997051358222961,Features
+229,Need more additional future include for now it's not bad,POSITIVE,0.994413435459137,Other
+230,I don't like. I can't make transfer to my own telebirr,NEGATIVE,-0.9984122514724731,Features
+231,lag and stack not quick response 😞😞,NEGATIVE,-0.9985823631286621,UX
+232,it good. to get services,POSITIVE,0.9998569488525391,Other
+233,good,POSITIVE,0.9998161196708679,Other
+234,Number One App,POSITIVE,0.9983179569244385,Other
+235,is good,POSITIVE,0.9998394250869751,Other
+236,this secure app of all Ethiopia mobile banking ever.,POSITIVE,0.9989427924156189,Other
+237,perfect app,POSITIVE,0.9998340606689453,Other
+238,owww cbe,POSITIVE,0.9705929756164551,Other
+239,"Very secured, fast and favourable",POSITIVE,0.999854326248169,Other
+240,best,POSITIVE,0.9997941851615906,Other
+241,very nice 👌,POSITIVE,0.9998577833175659,Other
+242,اليش يتعخر معرف والله,NEGATIVE,-0.5890551805496216,Other
+243,good application 💯💯💯.,POSITIVE,0.9998037219047546,Other
+244,best,POSITIVE,0.9997941851615906,Other
+245,good app,POSITIVE,0.9998493194580078,Other
+246,good,POSITIVE,0.9998161196708679,Other
+247,Nice App,POSITIVE,0.9998061060905457,Other
+248,it cost us a lot just by transfer and in other way not fair,NEGATIVE,-0.9993299245834351,Features
+249,Great app,POSITIVE,0.999821126461029,Other
+250,Interesting app,POSITIVE,0.9996960163116455,Other
+251,"i didn't get feed back through message ,Why so?",NEGATIVE,-0.9988840222358704,Other
+252,good and fast,POSITIVE,0.9998561143875122,Other
+253,"v, good",POSITIVE,0.9998000264167786,Other
+254,very bad experience as its very slow,NEGATIVE,-0.9998031258583069,Stability
+255,i luv it,POSITIVE,0.9778854250907898,Other
+256,Good&fast,POSITIVE,0.9998668432235718,Other
+257,good,POSITIVE,0.9998161196708679,Other
+258,good,POSITIVE,0.9998161196708679,Other
+259,የጣት አሻራ አገልግሎት አላገኘሁም። አጠቃቀሙ ጠፍቶኝ ይሆን?,NEGATIVE,-0.9681780338287354,Other
+260,good,POSITIVE,0.9998161196708679,Other
+261,Rtgs limit very small,NEGATIVE,-0.9604359269142151,Other
+262,"Trasaction history not sorted in time basis, besides the hilight transaction and its details which is found by clicking the highht transaction are diffrent. Generally, the tansaction history page has a critical problem",NEGATIVE,-0.999626874923706,Other
+263,good job,POSITIVE,0.999835729598999,Other
+264,best bank for Android application form market place and key number,POSITIVE,0.9671075940132141,Other
+265,i like cbe service,POSITIVE,0.9947469830513,Other
+266,አሪፍ ነው,NEGATIVE,-0.7850580811500549,Other
+267,it is the best application in the Ethiopia I like it this,POSITIVE,0.9998393058776855,Other
+268,super spp,POSITIVE,0.5455182194709778,Other
+269,I have 1 year and thank you for yo ur genuine service,POSITIVE,0.9996104836463928,UX
+270,ካየህዋቸው ተመሳሳይ መተግበርያዎች በጣም ጥሩ መተግበርያ ነው,NEGATIVE,-0.920040488243103,Other
+271,excellent,POSITIVE,0.9998434782028198,Other
+272,Excellent,POSITIVE,0.9998434782028198,Other
+273,"im having a terrible experience with this app, im getting 'unable to connect' error, this happened for a while now and they didnt fix it, it is so unreliable in times i need it that i have to resort to using ussd code instead of it. please fix this issue",NEGATIVE,-0.9997150301933289,Stability
+274,Absolute garbage,NEGATIVE,-0.9997928738594055,Other
+275,CBE does not offer anything international.,NEGATIVE,-0.9994158744812012,Other
+276,korsa,POSITIVE,0.9419000744819641,Other
+277,its good,POSITIVE,0.9998385906219482,Other
+278,very nice app,POSITIVE,0.9998562335968018,Other
+279,nice app,POSITIVE,0.9998061060905457,Other
+280,nice app,POSITIVE,0.9998061060905457,Other
+281,it looks fantasy,POSITIVE,0.9888854026794434,Other
+282,it's best app to use recently and upgraded day to day for internationalization,POSITIVE,0.9983494281768799,Other
+283,it is more convenient app,NEGATIVE,-0.8680288195610046,Other
+284,gooooodddd.....,NEGATIVE,-0.9880051016807556,Other
+285,This is app is not fast and not working well in all android phone. eg it is not functioning well using one plus phone.,NEGATIVE,-0.9997861981391907,Other
+286,Factory reset made me to lose my pin to login to my account!,NEGATIVE,-0.999756395816803,Account
+287,keeps on saying bucket override when I try to pay henon school fee,NEGATIVE,-0.996587872505188,Other
+288,"life longe bank CBE , Save & change your life.",POSITIVE,0.9976091384887695,Other
+289,good,POSITIVE,0.9998161196708679,Other
+290,does not working well,NEGATIVE,-0.9997747540473938,Other
+291,it's v good app sometimes there is a problem on other bank transfers,NEGATIVE,-0.9923245906829834,Features
+292,pls speedup for quick uses,NEGATIVE,-0.6067640781402588,UX
+293,"before, it was nice. now it does not work and crash automatically",NEGATIVE,-0.9990578293800354,Stability
+294,Pls facilitate transfer to telebirr agent,NEGATIVE,-0.9452366828918457,Features
+295,sestemaa siresun osoo manaa banki hindemne namnii barbade national id isa fayadamee osoo banachun danda'ame bayye nammati tola live event qabate,NEGATIVE,-0.9795665144920349,Other
+296,I customer for commercial bank of Ethiopia I trade,NEGATIVE,-0.9372625946998596,Other
+297,it's has an issue,POSITIVE,0.9217185974121094,Other
+298,good,POSITIVE,0.9998161196708679,Other
+299,nice,POSITIVE,0.9998552799224854,Other
+300,accessibility need to be taken seriously. There are people excluded because of inaccessible apps.,NEGATIVE,-0.9503915309906006,Other
+301,"This application was not that great, and its performance has unfortunately declined further. For the past week, I have been unable to access my balance or transfer funds. This situation is causing considerable concern and inconvenience, as I cannot access my money in a timely manner. This has resulted in late payments and a loss of confidence and trust. Furthermore, I have not received a response to my message to the customer support team.",NEGATIVE,-0.9997742772102356,Features
+302,I can't download this app please assist how it can be downloaded,NEGATIVE,-0.9936169385910034,Other
+303,"my favorite so far, but, how come we are not able to download the app and fix our problem ourselves? it is not fair to go to the bank and fix it for you? please think about it. Thank you",POSITIVE,0.8537619113922119,Other
+304,lulit tukka giro,POSITIVE,0.8195421695709229,Other
+305,Enough good even it hasn't transferring for other telebirr users,POSITIVE,0.9993717074394226,Features
+306,not good not bad.,POSITIVE,0.9955518841743469,Other
+307,easy fast helpful for our business,POSITIVE,0.9969444870948792,UX
+308,good,POSITIVE,0.9998161196708679,Other
+309,good,POSITIVE,0.9998161196708679,Other
+310,bad strresing,NEGATIVE,-0.9997972846031189,Other
+311,cool,POSITIVE,0.9998509883880615,Other
+312,100%100 Fast and Amazing app !! 🏆🏆🏆🏆🏆🏆🏆🏆 💞🌷🇪🇹,POSITIVE,0.9997475743293762,Other
+313,Not that happy at this app,NEGATIVE,-0.999756395816803,Other
+314,Best,POSITIVE,0.9997941851615906,Other
+315,crush alot,NEGATIVE,-0.9995573163032532,Other
+316,itii fayadamaa namaa fayadaa kuniin,NEGATIVE,-0.9859265089035034,Other
+317,good app,POSITIVE,0.9998493194580078,Other
+318,good,POSITIVE,0.9998161196708679,Other
+319,Musxafaa,NEGATIVE,-0.9952422380447388,Other
+320,good,POSITIVE,0.9998161196708679,Other
+321,well expriences,POSITIVE,0.9049556851387024,Other
+322,good,POSITIVE,0.9998161196708679,Other
+323,great 👍,POSITIVE,0.9997692704200745,Other
+324,I had good time with CBE,POSITIVE,0.9998478889465332,Other
+325,crashes every time you need to update this app ASAP.. i will be changing bank if tjis continues,NEGATIVE,-0.9992732405662537,Stability
+326,Good,POSITIVE,0.9998161196708679,Other
+327,easy and fast,POSITIVE,0.9995583891868591,UX
+328,very nice,POSITIVE,0.9998563528060913,Other
+329,its good,POSITIVE,0.9998385906219482,Other
+330,this app is very good,POSITIVE,0.9998623132705688,Other
+331,በጣም ጥሩ ነው,NEGATIVE,-0.8337249755859375,Other
+332,deduction but no transaction. not good,NEGATIVE,-0.9997362494468689,Other
+333,Easy to use and reliable.,POSITIVE,0.9997798800468445,UX
+334,difficult to see our transactions after aweek,NEGATIVE,-0.999567449092865,Other
+335,nice,POSITIVE,0.9998552799224854,Other
+336,Good bank,POSITIVE,0.9998420476913452,Other
+337,swift,POSITIVE,0.9991281628608704,Other
+338,best,POSITIVE,0.9997941851615906,Other
+339,it is wel,POSITIVE,0.9836228489875793,Other
+340,nice,POSITIVE,0.9998552799224854,Other
+341,fully functional greate application it makes payment and transaction easier,POSITIVE,0.9978688955307007,Features
+342,it's best for everyone,POSITIVE,0.9998076558113098,Other
+343,good,POSITIVE,0.9998161196708679,Other
+344,good jobs,POSITIVE,0.9998511075973511,Other
+345,am happy using it.But why does it need continuous updates?,NEGATIVE,-0.9802243709564209,Other
+346,Good job,POSITIVE,0.999835729598999,Other
+347,good,POSITIVE,0.9998161196708679,Other
+348,good,POSITIVE,0.9998161196708679,Other
+349,wow,POSITIVE,0.999592125415802,Other
+350,good 👍,POSITIVE,0.9998576641082764,Other
+351,Thank you for your service.,POSITIVE,0.9998093247413635,Other
+352,nice,POSITIVE,0.9998552799224854,Other
+353,WOW!,POSITIVE,0.999649167060852,Other
+354,i have more experience,POSITIVE,0.9620587825775146,Other
+355,good,POSITIVE,0.9998161196708679,Other
+356,i like this app,POSITIVE,0.9996516704559326,Other
+357,I love this app,POSITIVE,0.9998608827590942,Other
+358,it is not working,NEGATIVE,-0.9997721314430237,Other
+359,the app freezes sometimes and crashing,NEGATIVE,-0.9954427480697632,Stability
+360,for active payment it's number one chose,POSITIVE,0.99142986536026,Features
+361,"What a nasty Update is this !. May I say 'Events cast their shadow before happenings'. Trust, value, Bank's 'n' Customers' financial property, such like things, at risk once again(the State owned Bank experienced some months ago due to app development issues or some other unknown reasons. Unable to see my own current balance due to a hidden page being displayed, stacked transaction history since March 26th, among others. Is that a Banking app being developed by Professionals ?.",NEGATIVE,-0.9994988441467285,Other
+362,Very good Service provider bank,POSITIVE,0.9998120665550232,Other
+363,nice app keep it up🤝🤝,POSITIVE,0.9996798038482666,Other
+364,very much for your information 👋,POSITIVE,0.9981623291969299,Other
+365,bad👎,NEGATIVE,-0.6970561742782593,Other
+366,so nice to me,POSITIVE,0.9998413324356079,Other
+367,best,POSITIVE,0.9997941851615906,Other
+368,good update,POSITIVE,0.9998435974121094,Other
+369,It's a good improvement. the app,POSITIVE,0.9997755885124207,Other
+370,good,POSITIVE,0.9998161196708679,Other
+371,Excellent,POSITIVE,0.9998434782028198,Other
+372,best,POSITIVE,0.9997941851615906,Other
+373,"This app is very unreliable—slow, frequently crashes, and fails to sync properly. Transactions don’t reflect accurately; I transferred money that was deducted but never received, with no record in recent activity. It often stops working and takes too long to update. Reinstalling doesn’t help. You even have to visit a branch for it to start working, which is unacceptable today. The problem is even worse outside Ethiopia.",NEGATIVE,-0.9996652603149414,Stability
+374,not working,NEGATIVE,-0.9997778534889221,Other
+375,it's fast and easy nice,POSITIVE,0.999872088432312,UX
+376,Good,POSITIVE,0.9998161196708679,Other
+377,girms,POSITIVE,0.9923914074897766,Other
+378,"this platform is very useful for exchanging payment ,than *889#(it's slower ).🙏🙏",NEGATIVE,-0.996285080909729,Stability
+379,best,POSITIVE,0.9997941851615906,Other
+380,Good app,POSITIVE,0.9998493194580078,Other
+381,very excellent application the number one bank of Ethiopia thanks,POSITIVE,0.9998600482940674,Other
+382,I can't use the app months ago. It stopped working with Mobile data and WiFi. I didn't know the cause. Why this app is not compatible with Android 8?,NEGATIVE,-0.9996083378791809,Other
+383,not working,NEGATIVE,-0.9997778534889221,Other
+384,"very nice app, but charge more.",POSITIVE,0.9977237582206726,Other
+385,Why mobile Banking is not functional?,NEGATIVE,-0.9996395111083984,Other
+386,does this app support international transactions,POSITIVE,0.9887037873268127,Other
+387,i use CBE almost more than 5 years,NEGATIVE,-0.9014225006103516,Other
+388,this app essential app on this time,POSITIVE,0.9950023293495178,Other
+389,"After update not working at all, I live in abroad.",NEGATIVE,-0.8973283171653748,Other
+390,best app,POSITIVE,0.999686598777771,Other
+391,nice,POSITIVE,0.9998552799224854,Other
+392,it is not well functional. It always sluggish and poor application. n Not interested because always straggling .,NEGATIVE,-0.9998195767402649,Other
+393,best bank ever,POSITIVE,0.9998133778572083,Other
+394,Pleas allow self service on Mobile banking.,NEGATIVE,-0.9784427881240845,Other
+395,saved transactions doesn't work properly it doesn't show transactions before a month only shows recent transactions even after I set filter date range,NEGATIVE,-0.9966675639152527,Other
+396,good,POSITIVE,0.9998161196708679,Other
+397,easygoing & Convenient to use.,POSITIVE,0.9991795420646667,UX
+398,Thank you,POSITIVE,0.9998352527618408,Other
+399,good,POSITIVE,0.9998161196708679,Other
+400,nice,POSITIVE,0.9998552799224854,Other
+401,excellent,POSITIVE,0.9998434782028198,Other
+402,It charges high amount of service charge.,POSITIVE,0.9774952530860901,Other
+403,best,POSITIVE,0.9997941851615906,Other
+404,good,POSITIVE,0.9998161196708679,Other
+405,melkam new,NEGATIVE,-0.9627685546875,Other
+406,Very good service all times,POSITIVE,0.9998514652252197,Other
+407,ohh very useful and easy for use,POSITIVE,0.9979259967803955,UX
+408,wow,POSITIVE,0.999592125415802,Other
+409,good application,POSITIVE,0.999854564666748,Other
+410,good,POSITIVE,0.9998161196708679,Other
+411,its good,POSITIVE,0.9998385906219482,Other
+412,so nice,POSITIVE,0.9998610019683838,Other
+413,it nice and fast but usually it bad the connection by 4g network it still bad,NEGATIVE,-0.9988802075386047,Other
+414,not work app,NEGATIVE,-0.9996713399887085,Other
+415,nice App,POSITIVE,0.9998061060905457,Other
+416,CBE is my beast one for any transactions,POSITIVE,0.9963352680206299,Other
+417,very good,POSITIVE,0.9998520612716675,Other
+418,I Am Proud Of CBE Period!!!,POSITIVE,0.9998430013656616,Other
+419,digital banking,POSITIVE,0.9698484539985657,Other
+420,it is very good service you are giving,POSITIVE,0.9998605251312256,Other
+421,ps fast and easy,POSITIVE,0.9974810481071472,UX
+422,nice app for me,POSITIVE,0.9997487664222717,Other
+423,vibe,POSITIVE,0.998847246170044,Other
+424,Tajajilli keessan dubati Hafadha አገልግሎታችሁን ዱባቲ ሀፋድህን አቆይ Your service will stay behind,POSITIVE,0.877035915851593,Other
+425,ገላግሌ ብየዋለው ጥድት ያለ አፕ,NEGATIVE,-0.8832126259803772,Other
+426,best app i like it,POSITIVE,0.9997627139091492,Other
+427,it is really very poor application. i've ever experienced.,NEGATIVE,-0.9997970461845398,Other
+428,wow ✌️,POSITIVE,0.9992976188659668,Other
+429,EASY & SIMLPE TO MANIPULATE. COGRATS !!,NEGATIVE,-0.9855722784996033,UX
+430,zewediesh,NEGATIVE,-0.9029977321624756,Other
+431,nice app,POSITIVE,0.9998061060905457,Other
+432,Perfect App,POSITIVE,0.9998340606689453,Other
+433,🆗 g,POSITIVE,0.5323765873908997,Other
+434,the best app of mobile banking,POSITIVE,0.9998237490653992,Other
+435,ዝም ብሉ ይዞራል 😡😡😡,NEGATIVE,-0.8616322875022888,Other
+436,the bank You can always relay on!,POSITIVE,0.9955812096595764,Other
+437,good,POSITIVE,0.9998161196708679,Other
+438,good,POSITIVE,0.9998161196708679,Other
+439,"Why does this welcome notification appear every time the app is opened? It doesn’t add value in its current form, so please consider removing it. Alternatively, you could adjust it to appear only occasionally.",NEGATIVE,-0.9991655349731445,Other
+440,10Q U,NEGATIVE,-0.7842158675193787,Other
+441,very interesting,POSITIVE,0.999863862991333,Other
+442,"it cant accomidate more than 2 accounts,every time i subscribe for my 3r account it vanish.",NEGATIVE,-0.999395489692688,Account
+443,it's so disgusting my phone is s9+ android of 8/9 and this application still doesn't work for my phone fix it sooner as possible !,NEGATIVE,-0.999647855758667,Other
+444,This app is by far one of the useless apps. It keep on sating can't sync and unable to do transfers. please for God sake fix it,NEGATIVE,-0.9997839331626892,Features
+445,ልስን,NEGATIVE,-0.6970561742782593,Other
+446,new app,POSITIVE,0.9902405738830566,Other
+447,Nice,POSITIVE,0.9998552799224854,Other
+448,it can't showed transaction history perfectly,NEGATIVE,-0.9995885491371155,Other
+449,it have to be work on all smart phone ratherthan limitted by version,NEGATIVE,-0.984043538570404,Other
+450,All right 👍,POSITIVE,0.999824583530426,Other
+451,you can transfer br,POSITIVE,0.9933522939682007,Features
+452,well,POSITIVE,0.9995703101158142,Other
+453,not properly work,NEGATIVE,-0.9997875094413757,Other
+454,nice app,POSITIVE,0.9998061060905457,Other
+455,proud of CBE. CBE is my everyday day choice and confidence.,POSITIVE,0.9998643398284912,Other
+456,It would be great if you could add tele birr agent to the transfer to wallet.,NEGATIVE,-0.9961091876029968,Features
+457,love,POSITIVE,0.9998735189437866,Other
+458,"To the CBE: I opened my account 8 years ago while working as a government employee in Harerghe. Now I live in Addis Ababa, yet my account has been frozen without any explanation. I contacted nearby branches and even the head office, and all I was told is that I must go to the branch where I originally opened my account-over 400 km away. How is this fair/legal? Expecting a customer to travel over 400km just to reactivate an account is unreasonable and shows a total disregard for customer rights.",NEGATIVE,-0.9995940327644348,Account
+459,"it's good, but sometime the app can not be fast and it will need upgraeds.....?",NEGATIVE,-0.9964878559112549,Other
+460,I gone to cbe branch more times as I updated or re installed it because it asks verfication no. after reinstallation or updation tis costy for you,NEGATIVE,-0.9988352656364441,Other
+461,wonderful Pp,POSITIVE,0.9998849630355835,Other
+462,l want Mobile banks code,NEGATIVE,-0.9810473322868347,Other
+463,My application are not working,NEGATIVE,-0.9997850060462952,Other
+464,its good customer support,POSITIVE,0.9998515844345093,Other
+465,Can't active now,NEGATIVE,-0.9990955591201782,Other
+466,this app is really make me excited 😊,POSITIVE,0.9994534850120544,Other
+467,Easy to use and best way for online transactions in Ethiopia.,POSITIVE,0.934123694896698,UX
+468,good,POSITIVE,0.9998161196708679,Other
+469,ቸርነት ገበየሁ,NEGATIVE,-0.7850580811500549,Other
+470,"False advertising regarding Virtual Mastercard/Visa 😓😢😓 The latest update claims to support Mastercard and Visa cards, but this is completely false. The features are either missing or do not work at all. It is shameful for a leading bank to mislead its customers with ""new features"" that aren't actually available. Fix the bugs or stop making false promises.",NEGATIVE,-0.9997325539588928,Stability
+471,good,POSITIVE,0.9998161196708679,Other
+472,thanks for my custom,POSITIVE,0.9995878338813782,Other
+473,is good always not work not access.,POSITIVE,0.7839471697807312,Other
+474,perfect 👌,POSITIVE,0.9998273849487305,Other
+475,Baankiin Daldala Itoophiyaa nuuf qabeenya guddaa tahuu hin dagatinaa Mata duree ykn Handhuura baankii hundaati,NEGATIVE,-0.9953998923301697,Other
+476,The worst Application,NEGATIVE,-0.9997912049293518,Other
+477,the Fayda linking process was disappointing and tedious to say the least. I had to link it basically 2 times. once by a tailor and once by the sms link and I still have not been able to use my account. Every other bank flawlessly worked with Fayda.,NEGATIVE,-0.9992139339447021,Account
+478,you doesn't have respect for your customers still know it's not work the apk what was the reason you doesn't give me any feedback,NEGATIVE,-0.9992402791976929,Other
+479,weak customer experience,NEGATIVE,-0.9997939467430115,Other
+480,I Like it !,POSITIVE,0.9998824596405029,Other
+481,Rude customer contact you have,NEGATIVE,-0.99932861328125,Other
+482,good application,POSITIVE,0.999854564666748,Other
+483,How i can use,POSITIVE,0.9828811883926392,Other
+484,Wende. Weju. Mekura,NEGATIVE,-0.8907775282859802,Other
+485,so easygoing,POSITIVE,0.9985767602920532,UX
+486,haalli tajaajila keessanii baayyee nama gammachiisa galatoomaa,NEGATIVE,-0.9805221557617188,Other
+487,so fast and easy to use,POSITIVE,0.9991087317466736,UX
+488,but kobo town water bill payment is not included,NEGATIVE,-0.998680055141449,Features
+489,Bad application,NEGATIVE,-0.9997820258140564,Other
+490,good app 👍,POSITIVE,0.999788224697113,Other
+491,good,POSITIVE,0.9998161196708679,Other
+492,"This app is the best to use. thank you! comment while using the Scan QR option on Awashbirr pro, there is no option to select a QR code image from my gallery. Other banking apps provide this functionality. If there were an option to upload a QR code from the gallery, I would be able to make payments remotely using QR images. Also, how can I generate my account QR code to share with other people so they can make payments to my account?",NEGATIVE,-0.9797230362892151,Account
+493,tajaajila torban tokko osoo hinkenniin network error jedha.Rakkoo kana furuuf irraatti hojjadha.,NEGATIVE,-0.9978717565536499,Stability
+494,it's good,POSITIVE,0.9998360872268677,Other
+495,happy,POSITIVE,0.9998753070831299,Other
+496,nice,POSITIVE,0.9998552799224854,Other
+497,Nice one,POSITIVE,0.9998481273651123,Other
+498,best finance ever,POSITIVE,0.99981290102005,Other
+499,credit serebes Problem,NEGATIVE,-0.9973229765892029,Other
+500,best mobile banking app ever in Ethiopia. I love your advice receipt 🥰🥰🥰,POSITIVE,0.9994139671325684,Other
+501,tickst is not coming to me,NEGATIVE,-0.9993090629577637,Other
+502,wow i'm happy to use awash app pro,POSITIVE,0.9992035031318665,Other
+503,this app is very good and easy for use,POSITIVE,0.9997774958610535,UX
+504,very nice really appreciated,POSITIVE,0.9998583793640137,Other
+505,i like this apps,POSITIVE,0.9996740818023682,Other
+506,one step up,POSITIVE,0.9985400438308716,Other
+507,i wish it coud better,NEGATIVE,-0.9980282187461853,Other
+508,Best,POSITIVE,0.9997941851615906,Other
+509,perfect,POSITIVE,0.9998517036437988,Other
+510,Transfering to other bank and telebirr and MPESA option is not working.,NEGATIVE,-0.9997639060020447,Features
+511,smart upp,POSITIVE,0.9998373985290527,Other
+512,I like this easily to use!!,POSITIVE,0.9995890259742737,Other
+513,its cool,POSITIVE,0.9998533725738525,Other
+514,Baankiin Awaash filannookoo yeroo hundaati naaf jiraadhaa,NEGATIVE,-0.994946300983429,Other
+515,The fastest and safest mobile banking I just love your service. Thank you,POSITIVE,0.999868631362915,Other
+516,this app no works a30s phone no work this app rm gb 8rm only works why please update this app,NEGATIVE,-0.9991711378097534,Other
+517,It's a better app compared to other financial apps,POSITIVE,0.9936416745185852,Other
+518,good,POSITIVE,0.9998161196708679,Other
+519,good service,POSITIVE,0.9998499155044556,Other
+520,app doesn't open frozen,NEGATIVE,-0.9954800605773926,Other
+521,Good!,POSITIVE,0.9998268485069275,Other
+522,ever best bank,POSITIVE,0.9997686743736267,Other
+523,💪💪💐⚖️⚖️⚖️,NEGATIVE,-0.6970561742782593,Other
+524,my account was blocked with no reason I don't understand what's going on I contacted with a phone call with the head office why my account is blocked,NEGATIVE,-0.9997467398643494,Account
+525,cool,POSITIVE,0.9998509883880615,Other
+526,fast and nice app🥰🥰,POSITIVE,0.9998780488967896,Other
+527,wow,POSITIVE,0.999592125415802,Other
+528,ለአጠቃቀም ምቹ እና ቀለል ያለ ነው,NEGATIVE,-0.9046947360038757,Other
+529,Why Not Work this App on my Phone,NEGATIVE,-0.9992741942405701,Other
+530,"Dear Awash Bank,I enjoy using your app.Please consider adding a fingerprint login option for better security.Additionally, it would be very helpful to have a feature to transfer money to both""Self""and""Other"" Telebirr accounts.Thank you.",POSITIVE,0.9581313729286194,Account
+531,በ online ዘመን ቅርንጫፍ መሄድን ግዴታ ሚያደርግ app ቀሽም ሲስተም ነው,NEGATIVE,-0.9284139275550842,Other
+532,very poor,NEGATIVE,-0.9997965693473816,Other
+533,"I used awash for last 5 years it is simple,fast and easy to use",POSITIVE,0.9990531802177429,UX
+534,best app,POSITIVE,0.999686598777771,Other
+535,Best Application,POSITIVE,0.9998098015785217,Other
+536,amazing platform,POSITIVE,0.9998798370361328,Other
+537,"Best Bank with excellent service, flexibility and reliability",POSITIVE,0.9997612833976746,Other
+538,good app i liked it most,POSITIVE,0.9998576641082764,Other
+539,handy app,POSITIVE,0.999221920967102,Other
+540,i like more of,POSITIVE,0.999710738658905,Other
+541,Proudly and Service 👏👏👏👏👏,POSITIVE,0.9998084902763367,Other
+542,whay not,NEGATIVE,-0.977347731590271,Other
+543,waw,NEGATIVE,-0.7346187829971313,Other
+544,"You’re doing a great job, keep it up!",POSITIVE,0.9998804330825806,Other
+545,ለመክፈት አስቸጋሪነው,NEGATIVE,-0.7850580811500549,Other
+546,good,POSITIVE,0.9998161196708679,Other
+547,Excellent,POSITIVE,0.9998434782028198,Other
+548,exsalant,NEGATIVE,-0.9663317203521729,Other
+549,"Awash birr pro app is the best app, but when I transfer money from Awash Bank to another bank, the message does not reach the receiver immediately. please upgrade on the next update",NEGATIVE,-0.9988473653793335,Features
+550,transfer fee to other bank is very high,NEGATIVE,-0.927108883857727,Features
+551,a very bad bank. I was very disappointed by how they scam people sometimes while trying to transfer it will say error after allowing u to confirm with ur code and after u give up and pay with other methods later on u realize that that money has been deducted although transaction said error and was unsuccessful and no message or any means of notification will be given to you when u do that and you basically lose money. I actually really liked using awash bank untill I faced this scam.,NEGATIVE,-0.9995976090431213,Stability
+552,I really appreciate all your support and help and good service. Thank you so much,POSITIVE,0.9998559951782227,Other
+553,like it,POSITIVE,0.9997184872627258,Other
+554,nice,POSITIVE,0.9998552799224854,Other
+555,Great app. 👌👌👌,POSITIVE,0.9997377991676331,Other
+556,cool,POSITIVE,0.9998509883880615,Other
+557,like,POSITIVE,0.9910564422607422,Other
+558,the best banking every thing is good 👍🏽 I've been a customer for five years and haven't had any problems.,POSITIVE,0.9983252882957458,Other
+559,It makes life pretty easier,POSITIVE,0.9988611936569214,Other
+560,ምርጥ,NEGATIVE,-0.6970561742782593,Other
+561,good.,POSITIVE,0.9998157620429993,Other
+562,"Awash Birr-Pro is a useful and easy-to-use mobile payment app. However, sometimes the app gets stuck and becomes slow during use. Improving the speed and stability would greatly enhance the experience. Also, it would be helpful if the app could save previously used account numbers and show them as suggestions when typing, similar to Commercial Bank of Ethiopia mobile banking.",NEGATIVE,-0.8920474052429199,Stability
+563,best app it has all necessary features many people found it,POSITIVE,0.9994202852249146,Other
+564,it's good serving organization,POSITIVE,0.9998592138290405,Other
+565,Wow,POSITIVE,0.999592125415802,Other
+566,"​""Great app! But the data consumption is too high, and many users face 'network error' bugs despite having data. Please resolve this urgently.""",NEGATIVE,-0.9988905787467957,Stability
+567,excellent,POSITIVE,0.9998434782028198,Other
+568,good,POSITIVE,0.9998161196708679,Other
+569,awashBirr,NEGATIVE,-0.9948115348815918,Other
+570,great,POSITIVE,0.9998630285263062,Other
+571,This app is very useful and well designed. It runs smoothly without any problems. I especially like the simple layout and fast performance. Highly recommended!,POSITIVE,0.9998420476913452,Account
+572,good service,POSITIVE,0.9998499155044556,Other
+573,Good enough,POSITIVE,0.9998137354850769,Other
+574,the app is not compatible on my Samsung a16 5g device.,NEGATIVE,-0.9996832609176636,Other
+575,It's so extraordinary. It is help a lot in purchasing.,POSITIVE,0.9997193217277527,Other
+576,I like the app,POSITIVE,0.9994398951530457,Other
+577,Betterthan other Bank!,NEGATIVE,-0.9934779405593872,Other
+578,All are Ok,POSITIVE,0.9998389482498169,Other
+579,"i highly doubt that this app was developed and tested thoroughly i can't even enter my pin, the rest of the numbers after 6 aren't visble, i hope this will be fixed on the next update.",NEGATIVE,-0.9964573979377747,Other
+580,Simple and Confirmed App,POSITIVE,0.9969882369041443,Other
+581,"there is problem with ATM withdrawal issue, its very bad",NEGATIVE,-0.9993209838867188,Other
+582,www masha alha application kana itti fayyadamuu qabna baay'ee mijataa dha hojjiif,NEGATIVE,-0.9905635118484497,Other
+583,excellent application,POSITIVE,0.9998571872711182,Other
+584,it doesnt work,NEGATIVE,-0.999631404876709,Other
+585,Best app,POSITIVE,0.999686598777771,Other
+586,good,POSITIVE,0.9998161196708679,Other
+587,best,POSITIVE,0.9997941851615906,Other
+588,i am well satisfied with Awash. Thank you.,POSITIVE,0.9998440742492676,Other
+589,good but when it accidentally logged in the password will block this is because of automatic login to reduce the risk can you put confirm button or ok button after typing logging password rather than automatically logging in the reason is after you make transactions u forget to close the app and accidently in poker or on hand the login profile appear then it will attempt and block,NEGATIVE,-0.9981254935264587,Account
+590,The App Is Best,POSITIVE,0.9992438554763794,Other
+591,awash is the best bank in the country and awash BIRR Pro? i love it,POSITIVE,0.9993921518325806,Other
+592,so good,POSITIVE,0.999841570854187,Other
+593,better,POSITIVE,0.999264657497406,Other
+594,ወደር የሌለው አፕ,NEGATIVE,-0.8337249755859375,Other
+595,not usinfull,NEGATIVE,-0.9919427633285522,Other
+596,best of best,POSITIVE,0.9997496008872986,Other
+597,best apps,POSITIVE,0.999784529209137,Other
+598,exellent,NEGATIVE,-0.9927697777748108,Other
+599,86.1M Total Customer,POSITIVE,0.9546988010406494,Other
+600,good,POSITIVE,0.9998161196708679,Other
+601,wonderful mobile banking app I ever used,POSITIVE,0.9998301267623901,Other
+602,nice,POSITIVE,0.9998552799224854,Other
+603,content like deshen,POSITIVE,0.960534930229187,Other
+604,very simple app and very short cut,NEGATIVE,-0.994106650352478,Other
+605,fast and best app to use easy,POSITIVE,0.9988071918487549,UX
+606,good,POSITIVE,0.9998161196708679,Other
+607,boring app for IFB users 👎👎👎,NEGATIVE,-0.9997037053108215,Other
+608,very good,POSITIVE,0.9998520612716675,Other
+609,Excellent,POSITIVE,0.9998434782028198,Other
+610,"Very easy, clear, fast, and includes everything I want. I am very happy with your services. Keep it up!!",POSITIVE,0.9998712539672852,UX
+611,best,POSITIVE,0.9997941851615906,Other
+612,its wonder app,POSITIVE,0.9996904134750366,Other
+613,Dhuguma Awash Kun!!,NEGATIVE,-0.9963263869285583,Other
+614,በጣም ጥሩና ፈጣን መተግበሪያ ነው,NEGATIVE,-0.8832126259803772,Other
+615,Awash bank digital service is the best and much secure than any other competing service center.,POSITIVE,0.9994564652442932,Other
+616,best mobile bank,POSITIVE,0.9996833801269531,Other
+617,I appreciate using the awashbirr,NEGATIVE,-0.7609153985977173,Other
+618,good application non comparable,POSITIVE,0.998227059841156,Other
+619,"[Jan 06, 2026]: EXCHANGE Rate",NEGATIVE,-0.6215622425079346,Other
+620,wow,POSITIVE,0.999592125415802,Other
+621,Exelent,POSITIVE,0.9989122152328491,Other
+622,"Awash bank is one of the best bank from 🇪🇹 financial institutions ,but this app is too late in all aspects with the respect of others !!! Please up grade it !!!!",NEGATIVE,-0.96640944480896,Other
+623,unsecure bank. I loss many without my request cheater bank,NEGATIVE,-0.9963655471801758,Other
+624,Thank You🙏❤️🙏,POSITIVE,0.9997720122337341,Other
+625,Why my phone is not working this app?,NEGATIVE,-0.9994507431983948,Other
+626,good,POSITIVE,0.9998161196708679,Other
+627,useful 👍,POSITIVE,0.9991149306297302,Other
+628,"I found the AwashBirr Pro app to be user-friendly and easy to use. It is fast and provides a high level of security when performing transactions. I particularly appreciate how easily it allows me to manage and view my account statements, even for periods longer than one year. The security features are excellent—if there is a failed login attempt, I receive an alert message almost immediately, which gives me strong confidence in the app’s protection mechanisms.",POSITIVE,0.999382734298706,Stability
+629,thank u,POSITIVE,0.9998247027397156,Other
+630,Other bank transfer to Abyssinia bank is not working it says invalid account,NEGATIVE,-0.9983643889427185,Account
+631,አዋሽ ምረጥ ባንክ,NEGATIVE,-0.8337249755859375,Other
+632,the simplicity and its transfer to any bank perfection is extra ordinary !!!.,POSITIVE,0.7709198594093323,Features
+633,very good,POSITIVE,0.9998520612716675,Other
+634,it's easy and convenient app,POSITIVE,0.9980676770210266,UX
+635,👌👌👌,NEGATIVE,-0.6970561742782593,Other
+636,fast one and the branch service is crazy good,POSITIVE,0.9998487234115601,Other
+637,Best app ever,POSITIVE,0.9997491240501404,Other
+638,good apps,POSITIVE,0.9998608827590942,Other
+639,good experience,POSITIVE,0.9998599290847778,Other
+640,good application,POSITIVE,0.999854564666748,Other
+641,"Device compatability issues. it says "" recent reviews shows this app may not work properly in this device""",NEGATIVE,-0.9997909665107727,Other
+642,"Awash pro app is the best online payment app i everseen, its user friendly, best graphics. The updates app is more interesting. Guys I wanna to edit my rate from Dec 1/2025 because some bugs are occurred in the app , my earlier two transactions from awashto other bank has been not transferred to requested account but deducted from my balance please developer fix this issues high security for our money. This issue reduce the trust of customer from the bank.",POSITIVE,0.6248961091041565,Stability
+643,best app so far,POSITIVE,0.9995212554931641,Other
+644,nice app,POSITIVE,0.9998061060905457,Other
+645,Dorgomaa hin qabu♥️,NEGATIVE,-0.8586711287498474,Other
+646,no one from all ethiopian bank keep it up nice,NEGATIVE,-0.9990609288215637,Other
+647,thenk you ✍️🙏,POSITIVE,0.832306981086731,Other
+648,i hope to be good app,POSITIVE,0.999792754650116,Other
+649,amazing 😍😍,POSITIVE,0.9998632669448853,Other
+650,excellent👍👍👍👍👍,NEGATIVE,-0.6970561742782593,Other
+651,fast,POSITIVE,0.9989494681358337,Other
+652,really good application,POSITIVE,0.9998635053634644,Other
+653,በጥሩ አቀባበላችሁ እረካለሁ።,NEGATIVE,-0.8616322875022888,Other
+654,simple and fast,POSITIVE,0.9998082518577576,Other
+655,It is a good platform,POSITIVE,0.9998687505722046,Other
+656,very good,POSITIVE,0.9998520612716675,Other
+657,your service is good,POSITIVE,0.9998403787612915,Other
+658,thanks for your pro app,POSITIVE,0.9993983507156372,Other
+659,why doesn't work on xiaomi device?,NEGATIVE,-0.9986457228660583,Other
+660,you are good apple,POSITIVE,0.9998729228973389,Other
+661,the best bank and best app 👌,POSITIVE,0.9997952580451965,Other
+662,nice,POSITIVE,0.9998552799224854,Other
+663,Good &the best one,POSITIVE,0.9998531341552734,Other
+664,This application is very important to all of worldwide who are using Awash Bank! Awash Bank is the best bank in The Ethiopia NURTURING LIKE THE RIVER🏞,POSITIVE,0.9996355772018433,Other
+665,i frequently get crash report on my galaxy A53 5G phone... so please make an update to solve this problem!!!,NEGATIVE,-0.9901471734046936,Stability
+666,this App Are as of me Smart And very Comfort,POSITIVE,0.9998515844345093,Other
+667,no response from the customer support.,NEGATIVE,-0.9996917247772217,Other
+668,wow,POSITIVE,0.999592125415802,Other
+669,best,POSITIVE,0.9997941851615906,Other
+670,excellent,POSITIVE,0.9998434782028198,Other
+671,best of best,POSITIVE,0.9997496008872986,Other
+672,say that,POSITIVE,0.972464919090271,Other
+673,wow,POSITIVE,0.999592125415802,Other
+674,very good app,POSITIVE,0.9998675584793091,Other
+675,"please please updated with the UI 8 interface, it is so not responding as fast as it has to be. please do something🙏🙏🙏",NEGATIVE,-0.9993470311164856,UX
+676,very good,POSITIVE,0.9998520612716675,Other
+677,excellent,POSITIVE,0.9998434782028198,Other
+678,good always better way,POSITIVE,0.9998599290847778,Other
+679,This is the fastest app I have been using for three years.,POSITIVE,0.9959569573402405,Other
+680,it is healp full,POSITIVE,0.9891770482063293,Other
+681,appin kun bay'e dansadha tajajila Issa itti nuf fufu qaba,NEGATIVE,-0.9627174735069275,Other
+682,best app,POSITIVE,0.999686598777771,Other
+683,good,POSITIVE,0.9998161196708679,Other
+684,amezing app simple to use,POSITIVE,0.7235652804374695,Other
+685,easy and quick 💪💪💪😉 my way,POSITIVE,0.9992923736572266,UX
+686,"fast, reliable and user friendly app.",POSITIVE,0.9997045397758484,Other
+687,good,POSITIVE,0.9998161196708679,Other
+688,fast,POSITIVE,0.9989494681358337,Other
+689,this application is very easy to use,POSITIVE,0.9965636134147644,UX
+690,nice app,POSITIVE,0.9998061060905457,Other
+691,keep it up,POSITIVE,0.9998098015785217,Other
+692,Awash birr pro,NEGATIVE,-0.9963382482528687,Other
+693,the newly updated app is so slow,NEGATIVE,-0.9997972846031189,Stability
+694,እየተለማመዳቹሁ ነው እንዴ ?? check ሳታረጉ እና ሳታረጋግጡ እንደወረደ ነው እንዴ playstore lay ምትለቁት ደሞ እንዳሻሻለ ሰው updste ግዴታ ምረጉት ነገርስ😏😏,NEGATIVE,-0.9943430423736572,Other
+695,love this,POSITIVE,0.9998822212219238,Other
+696,but I need more compatible app with my device,NEGATIVE,-0.9965533018112183,Other
+697,it's very clear and faster.,POSITIVE,0.9998027682304382,Other
+698,good and easy to use,POSITIVE,0.9998656511306763,UX
+699,I am getting a message that this update is not compatible with my system. I couldn't use the app anymore.,NEGATIVE,-0.9997923970222473,Other
+700,"Please, update kana hir'isaamee nama nuffisisaa",NEGATIVE,-0.9867867231369019,Other
+701,"it's better to select who is paying loans on time and not,then it's better to give chance for those who are paying their loans on time specifically.",NEGATIVE,-0.9913718700408936,Other
+702,App baayye dansaadha Ani maqaa ofii kootiif itti moggaase jira #Haaja-baas jedhetiin waame,NEGATIVE,-0.9966065883636475,Other
+703,"I like the app,like the bank.",POSITIVE,0.998499870300293,Other
+704,I like It,POSITIVE,0.9998593330383301,Other
+705,the app isnt working currently. it takes a pin and unable to open the home page.,NEGATIVE,-0.9996351003646851,Other
+706,"I am unable to use the application at this time due to compatibility issues with my device. I would like to point out that I possess a brand new phone manufactured in 2024. Please address this issue, as your customers require a better experience.",NEGATIVE,-0.9906588792800903,UX
+707,fast app,POSITIVE,0.9983617663383484,Other
+708,Awash baankii Hunda galeessa,NEGATIVE,-0.9942681789398193,Other
+709,Nice app,POSITIVE,0.9998061060905457,Other
+710,wow i liket,POSITIVE,0.9997943043708801,Other
+711,make your life simple,POSITIVE,0.9997678399085999,Other
+712,"simple,fast and reliable app also I appreciate awash bank service. my #1 choose bank thank you",POSITIVE,0.9994751811027527,Other
+713,not compatible to use,NEGATIVE,-0.9997914433479309,Other
+714,dont ask update,NEGATIVE,-0.9541857838630676,Other
+715,shukran,POSITIVE,0.9451925158500671,Other
+716,app kun bayye bayye gariidha!,POSITIVE,0.9731219410896301,Other
+717,loved,POSITIVE,0.999881386756897,Other
+718,The Smart one,POSITIVE,0.999849796295166,Other
+719,👍✌️,NEGATIVE,-0.6970561742782593,Other
+720,good app,POSITIVE,0.9998493194580078,Other
+721,latest .....,POSITIVE,0.985856294631958,Other
+722,"Awash birr pro fast,secure and convenience.......",NEGATIVE,-0.9050922989845276,Other
+723,perfect applications easy and up-to-date.,POSITIVE,0.9998444318771362,UX
+724,good,POSITIVE,0.9998161196708679,Other
+725,The best app and bank fast service and honest.,POSITIVE,0.9998632669448853,Other
+726,good,POSITIVE,0.9998161196708679,Other
+727,Good,POSITIVE,0.9998161196708679,Other
+728,well service,POSITIVE,0.9997822642326355,Other
+729,The best app for modern living,POSITIVE,0.9998227953910828,Other
+730,wow,POSITIVE,0.999592125415802,Other
+731,Exciting,POSITIVE,0.9998730421066284,Other
+732,the previous update doesn't wok on my phone samsung s8 edge,POSITIVE,0.9529599547386169,Other
+733,thank u,POSITIVE,0.9998247027397156,Other
+734,It's nice,POSITIVE,0.9998672008514404,Other
+735,excellence app,POSITIVE,0.9997778534889221,Other
+736,toleshi chawaqa,POSITIVE,0.9240456223487854,Other
+737,my favourite app,POSITIVE,0.9984124898910522,Other
+738,good,POSITIVE,0.9998161196708679,Other
+739,"*Some limitations for AwashBirr pro and you will be adjust and add the following features and service's:- 1) Card management like card request,card replacement, pin change & card limit set..... 2) Money request QR code for all customers. 3) Packeges from telecom and safaricom~only air time is not enough. 4) new and beautifull interface's, themes, QR code scanning featurs for merchants, fuel payments and other...  * If this addtional featurs are added for AwashBirr pro, it will be perfect.",POSITIVE,0.976621687412262,UX
+740,Good !,POSITIVE,0.9998268485069275,Other
+741,Good 👍 so far,POSITIVE,0.9998511075973511,Other
+742,Great,POSITIVE,0.9998630285263062,Other
+743,Easy to use and convenient application!,POSITIVE,0.9948223829269409,UX
+744,It has some improvement to easy our used,POSITIVE,0.9222609400749207,UX
+745,awshbirrii,NEGATIVE,-0.9803416728973389,Other
+746,Swiss de and the other one day we will be there,POSITIVE,0.9985013008117676,Other
+747,very,POSITIVE,0.9928561449050903,Other
+748,good app,POSITIVE,0.9998493194580078,Other
+749,good i.believed you,POSITIVE,0.9998551607131958,Other
+750,its best app ever,POSITIVE,0.9998096823692322,Other
+751,Best app👌,POSITIVE,0.9997019171714783,Other
+752,I'm only here add 5 star for thus app,NEGATIVE,-0.8968639373779297,Other
+753,አይረባም,NEGATIVE,-0.6970561742782593,Other
+754,it's good,POSITIVE,0.9998360872268677,Other
+755,best bank 🏦 👌,POSITIVE,0.998965859413147,Other
+756,good app,POSITIVE,0.9998493194580078,Other
+757,👌👌👌,NEGATIVE,-0.6970561742782593,Other
+758,best,POSITIVE,0.9997941851615906,Other
+759,that's so nice,POSITIVE,0.9998601675033569,Other
+760,it's good,POSITIVE,0.9998360872268677,Other
+761,Okey,POSITIVE,0.9961528182029724,Other
+762,perfect app and bank,POSITIVE,0.9998462200164795,Other
+763,well,POSITIVE,0.9995703101158142,Other
+764,good app,POSITIVE,0.9998493194580078,Other
+765,ኣዋሽ ባንክ ገራሚ ባንክ,NEGATIVE,-0.8616322875022888,Other
+766,good,POSITIVE,0.9998161196708679,Other
+767,overall good,POSITIVE,0.9998326301574707,Other
+768,good bank,POSITIVE,0.9998420476913452,Other
+769,it needs more thing,NEGATIVE,-0.9986556768417358,Other
+770,good,POSITIVE,0.9998161196708679,Other
+771,Tank,NEGATIVE,-0.9976772665977478,Other
+772,naa dalaguu didee mee naa lalaa,NEGATIVE,-0.992497444152832,Other
+773,like,POSITIVE,0.9910564422607422,Other
+774,good,POSITIVE,0.9998161196708679,Other
+775,the best bank which is reliable,POSITIVE,0.9998039603233337,Other
+776,reliable app and easy to use and clear.,POSITIVE,0.9997337460517883,UX
+777,okay 👍 👌,POSITIVE,0.9882416129112244,Other
+778,all system Excellent. keep it !!,POSITIVE,0.9998626708984375,Other
+779,Good app@!!!,POSITIVE,0.999860405921936,Other
+780,awash,NEGATIVE,-0.9986554384231567,Other
+781,why doesn't have fuel payement,NEGATIVE,-0.993516206741333,Other
+782,you app is vary slow to download i check network but it's not network problem,POSITIVE,0.9893932342529297,Stability
+783,best banking application but the new update is not working on my device it says it's not compatible with your device please do something.,NEGATIVE,-0.9993711113929749,Other
+784,good,POSITIVE,0.9998161196708679,Other
+785,this awash birr pro application is good app for us and security,POSITIVE,0.9755882024765015,Other
+786,difficult to update,NEGATIVE,-0.9997279047966003,Other
+787,"Easy to use the app,Fast Transaction and 24/7 active network 🛜",NEGATIVE,-0.6499645709991455,UX
+788,very nice to use it for many purpose!!! I highly recommend it for all Awash Bank customers. Thanks a lot for it!!!!,POSITIVE,0.9997362494468689,Other
+789,user friendly app…,POSITIVE,0.9701567888259888,Other
+790,that is not fair ihave transfer but your cut balance,NEGATIVE,-0.9599840044975281,Features
+791,excellent,POSITIVE,0.9998434782028198,Other
+792,this app is evrybay choise day to day useing thing,NEGATIVE,-0.9524398446083069,Other
+793,Hydraulics engineer,POSITIVE,0.9670913219451904,Other
+794,The best app i have ever used. It is very user friendly.,POSITIVE,0.9991703033447266,Other
+795,ጥሩ ነው ግን አዲስ ሂሳብ በራስ መክፈት በሚቻልበት ደረጃ ብታዘምኑ እጅግ በጣም አሪፍ ይሆን ነበር,NEGATIVE,-0.9558282494544983,Other
+796,good,POSITIVE,0.9998161196708679,Other
+797,really i love it,POSITIVE,0.9998782873153687,Other
+798,good,POSITIVE,0.9998161196708679,Other
+799,exellent service thankyou!!!!,POSITIVE,0.9987586736679077,Other
+800,greate app,POSITIVE,0.9982296824455261,Other
+801,i have used most of in your compan,NEGATIVE,-0.6715331077575684,Other
+802,HaderaSebah,NEGATIVE,-0.5704615116119385,Other
+803,Alright branch service first,POSITIVE,0.9942943453788757,Other
+804,nice job,POSITIVE,0.9998424053192139,Other
+805,SUBSCRIBE,POSITIVE,0.7395412921905518,Other
+806,interesting,POSITIVE,0.9998446702957153,Other
+807,not good I can't load it,NEGATIVE,-0.9994556307792664,Other
+808,all of time 📈,POSITIVE,0.639244019985199,Other
+809,good👍,NEGATIVE,-0.6970561742782593,Other
+810,easy to use features,POSITIVE,0.9985663294792175,UX
+811,it's amaizing,POSITIVE,0.9912844896316528,Other
+812,wow,POSITIVE,0.999592125415802,Other
+813,wawu,POSITIVE,0.573069155216217,Other
+814,excellent thank you!!!,POSITIVE,0.9998733997344971,Other
+815,It good and the pending futures like fuel payment should be included swiftly,POSITIVE,0.9965026378631592,Features
+816,"""This app is very useful. If we face any complications related to transferring or receiving money, we don’t need to visit the bank. We can simply use the app to view our transaction history and resolve the issue.""",POSITIVE,0.9964699745178223,Features
+817,mobal banking,NEGATIVE,-0.983301043510437,Other
+818,"the worst banking experience, the app keeps crushing you guys better find a good developer",NEGATIVE,-0.9997922778129578,Other
+819,"Awash Bank Birr Pro — Safe and reliable - Strong encryption and secure channels for all transactions - Multi factor protection with PIN, OTP and biometric login - Real time fraud monitoring and instant transaction alerts",POSITIVE,0.9596278667449951,Account
+820,bedt app ever,NEGATIVE,-0.9771644473075867,Other
+821,good app,POSITIVE,0.9998493194580078,Other
+822,Excellent App,POSITIVE,0.9998356103897095,Other
+823,Amazing,POSITIVE,0.999875545501709,Other
+824,its best and trustworthy app i like,POSITIVE,0.9998459815979004,Other
+825,good,POSITIVE,0.9998161196708679,Other
+826,I have a great experience,POSITIVE,0.9998699426651001,Other
+827,best app,POSITIVE,0.999686598777771,Other
+828,the Best app,POSITIVE,0.9998469352722168,Other
+829,power full 💪,POSITIVE,0.9996962547302246,Other
+830,it is not flexible,NEGATIVE,-0.999789297580719,Other
+831,good,POSITIVE,0.9998161196708679,Other
+832,fast,POSITIVE,0.9989494681358337,Other
+833,"the app says in my is note anymore compatible,please make the app for all divse",NEGATIVE,-0.988289475440979,Other
+834,excellent application,POSITIVE,0.9998571872711182,Other
+835,very supportive and eazy to use,POSITIVE,0.9991716146469116,Other
+836,"Tajaajilli Baankiinbkun kennu KEESSATTI gaheen AwashBirr pro App Kun GARMALEE guddaadha. App Kun itti fayyadamuuf salphaa, Afaanota gara garaatiin hojjechuu fi neetwoorkii salphaa keessatti hojjechuu danda'uu isaa dabalata.",NEGATIVE,-0.9951465725898743,Other
+837,interesting apps,POSITIVE,0.9997898936271667,Other
+838,at all not worK properly !!!,NEGATIVE,-0.9997981190681458,Other
+839,Oro koo,POSITIVE,0.9904994368553162,Other
+840,This app is very useful and I am enjoying and delighted with it,POSITIVE,0.9998822212219238,Other
+841,the best bank,POSITIVE,0.9998573064804077,Other
+842,good app,POSITIVE,0.9998493194580078,Other
+843,very good,POSITIVE,0.9998520612716675,Other
+844,"I couldn't update... the ""enable"" option doesn't even respond.",NEGATIVE,-0.999699592590332,Other
+845,good,POSITIVE,0.9998161196708679,Other
+846,wow,POSITIVE,0.999592125415802,Other
+847,MashaALLAH it's an Excellent App.,POSITIVE,0.9998536109924316,Other
+848,Good application,POSITIVE,0.999854564666748,Other
+849,v. good,POSITIVE,0.9948773980140686,Other
+850,better it,POSITIVE,0.997046172618866,Other
+851,not safe to use but good and fast to transfer,POSITIVE,0.9997225403785706,Features
+852,I realy like the app it so simple and user friendly,POSITIVE,0.9990372657775879,Other
+853,waw🇪🇹🙏🙏🙏👍👍👍🥰🥰🥰,NEGATIVE,-0.6970561742782593,Other
+854,it's easy and available to use,POSITIVE,0.999566376209259,UX
+855,good job,POSITIVE,0.999835729598999,Other
+856,BEST BANK IN ETHIOPIA,POSITIVE,0.999733030796051,Other
+857,excellent,POSITIVE,0.9998434782028198,Other
+858,this app is greet,POSITIVE,0.9885468482971191,Other
+859,Very attractive and functional app,POSITIVE,0.9998693466186523,Other
+860,what is the reason can not run with Android brigage,NEGATIVE,-0.9950957894325256,Other
+861,best,POSITIVE,0.9997941851615906,Other
+862,interesting app,POSITIVE,0.9996960163116455,Other
+863,I can 't update/enable the app,NEGATIVE,-0.9986718893051147,Other
+864,its good,POSITIVE,0.9998385906219482,Other
+865,best,POSITIVE,0.9997941851615906,Other
+866,perfect!,POSITIVE,0.9998676776885986,Other
+867,its interesting,POSITIVE,0.9998266100883484,Other
+868,the best mobile banking app ever made in Ethiopia,POSITIVE,0.9997947812080383,Other
+869,"fast, easy to access",POSITIVE,0.9996514320373535,UX
+870,"Very good and easily access,secure ,good privacy APP",POSITIVE,0.999804675579071,Other
+871,"I am a developer an am having a lock out while am using USB debug , I have to turn it off and on simultaneously",NEGATIVE,-0.9975475668907166,Stability
+872,"The best banking app! Fast, secure, and super convenient.",POSITIVE,0.9997768998146057,Other
+873,"Recent update (1.1.0) made the app so smooth. Great job. as a tip, the fingerprint should show up by itself, and in the bill section, I wish you provided more detailed usage information. but that's just me nitpicking.",NEGATIVE,-0.9887462258338928,Features
+874,good app thanks,POSITIVE,0.9998427629470825,Other
+875,All ways my best choose,POSITIVE,0.996469259262085,Other
+876,very good app for my side.,POSITIVE,0.9998582601547241,Other
+877,I have the user of awashbirr pro.,NEGATIVE,-0.9957107305526733,Other
+878,effective and clean,POSITIVE,0.9998512268066406,UX
+879,Good journey!,POSITIVE,0.999874472618103,Other
+880,good,POSITIVE,0.9998161196708679,Other
+881,አጀጀከ,NEGATIVE,-0.6970561742782593,Other
+882,very good Ap,POSITIVE,0.999860405921936,Other
+883,Good app,POSITIVE,0.9998493194580078,Other
+884,Good,POSITIVE,0.9998161196708679,Other
+885,you are first number one am happy for service thank you,POSITIVE,0.9998605251312256,Other
+886,is better system,POSITIVE,0.9940354824066162,Other
+887,this app is very important,POSITIVE,0.9995324611663818,Other
+888,Every transactions in one place,POSITIVE,0.9718047380447388,Other
+889,excellence,POSITIVE,0.9998365640640259,Other
+890,በጣም አሪፍ ነው,NEGATIVE,-0.8337249755859375,Other
+891,It's every good,POSITIVE,0.9998735189437866,Other
+892,nice,POSITIVE,0.9998552799224854,Other
+893,Its good but after withdrew my saving account.. to transfer it charge 60 Birr,NEGATIVE,-0.988277018070221,Account
+894,Good,POSITIVE,0.9998161196708679,Other
+895,በጣም ጥሩ ነው አዋሽ ባንክ አንደኛ,NEGATIVE,-0.9046947360038757,Other
+896,Best Bank my first choice,POSITIVE,0.9974808096885681,Other
+897,Excellent app and functioning,POSITIVE,0.999847412109375,Other
+898,it's very fast and incredible,POSITIVE,0.9998853206634521,Other
+899,amazing,POSITIVE,0.999875545501709,Other
+900,good,POSITIVE,0.9998161196708679,Other
+901,best app,POSITIVE,0.999686598777771,Other
+902,Exceptional bank 🏦🏧,POSITIVE,0.9990516304969788,Other
+903,easy to use it is user-friendly,POSITIVE,0.9855008721351624,UX
+904,excellent app,POSITIVE,0.9998356103897095,Other
+905,Amazing app,POSITIVE,0.9998670816421509,Other
+906,number 1,POSITIVE,0.9995982050895691,Other
+907,thanks for your support with app,POSITIVE,0.9995899796485901,Other
+908,Nice,POSITIVE,0.9998552799224854,Other
+909,Excellent,POSITIVE,0.9998434782028198,Other
+910,Great app!,POSITIVE,0.9998462200164795,Other
+911,Not fast,NEGATIVE,-0.9949790835380554,Other
+912,nic,POSITIVE,0.9977141618728638,Other
+913,Where ever when ever .... Awash birr Pro,NEGATIVE,-0.9976196885108948,Other
+914,very ugly,NEGATIVE,-0.999811589717865,Other
+915,good app,POSITIVE,0.9998493194580078,Other
+916,prefer app,POSITIVE,0.9984834790229797,Other
+917,This is the poorest app of the century. How come it selectively uses a device to function???,NEGATIVE,-0.9997954964637756,Other
+918,it is a very good application if it is used.relibble and fast.,POSITIVE,0.9965099692344666,Other
+919,They are Stingy to their customers.,NEGATIVE,-0.632863461971283,Other
+920,مقبول جدا ضعيف,NEGATIVE,-0.6652880907058716,Other
+921,best apps,POSITIVE,0.999784529209137,Other
+922,Tajajilli kessan foyya'aadha.,NEGATIVE,-0.8219348788261414,Other
+923,it is nice app,POSITIVE,0.9998478889465332,Other
+924,This is the perfect banking app i was looking for in Ethiopia.,POSITIVE,0.9994053840637207,Other
+925,working,POSITIVE,0.9987824559211731,Other
+926,"good app, I loved",POSITIVE,0.9998791217803955,Other
+927,Best application. 👌,POSITIVE,0.9997496008872986,Other
+928,always at service,POSITIVE,0.9968535304069519,Other
+929,Best app,POSITIVE,0.999686598777771,Other
+930,Nice,POSITIVE,0.9998552799224854,Other
+931,Fast and Awesome,POSITIVE,0.9998795986175537,Other
+932,😲woow,NEGATIVE,-0.6970561742782593,Other
+933,excellent,POSITIVE,0.9998434782028198,Other
+934,very good app,POSITIVE,0.9998675584793091,Other
+935,best app,POSITIVE,0.999686598777771,Other
+936,interesting,POSITIVE,0.9998446702957153,Other
+937,Nurturing lik the river!!,POSITIVE,0.9985552430152893,Other
+938,good,POSITIVE,0.9998161196708679,Other
+939,so good very much,POSITIVE,0.9998612403869629,Other
+940,amazing 😍,POSITIVE,0.9998632669448853,Other
+941,convinent,NEGATIVE,-0.9798853993415833,Other
+942,best mobile banking app,POSITIVE,0.9997095465660095,Other
+943,It's so amazing app,POSITIVE,0.9998838901519775,Other
+944,It's well for all activities but have some bad features,NEGATIVE,-0.9913523197174072,Other
+945,I love it,POSITIVE,0.9998799562454224,Other
+946,its good to perform transaction,POSITIVE,0.9997660517692566,Other
+947,good,POSITIVE,0.9998161196708679,Other
+948,Amazing,POSITIVE,0.999875545501709,Other
+949,excellent,POSITIVE,0.9998434782028198,Other
+950,"I dislike this new update. It doesn't open the app, but keep saying that you log in to another device.",NEGATIVE,-0.9949413537979126,Other
+951,keeps saying I'm logged into another device when I'm sure I'm not.,NEGATIVE,-0.9990690350532532,Other
+952,"You the developers your development is going downward or what happened with you? After last year everything about the app is getting worse. Even if you can't update to a better version, why don't you leave as it is? I hated this version.",NEGATIVE,-0.9998171925544739,Other
+953,Awash your bank and where you proudly being served.,NEGATIVE,-0.8578364849090576,Other
+954,very nice app thanks Awash bank leading bank,POSITIVE,0.9997765421867371,Other
+955,the best mobile banking in our nation,POSITIVE,0.9998408555984497,Other
+956,Not working well 22/05/2025 6:48 PM,NEGATIVE,-0.9996216297149658,Other
+957,good,POSITIVE,0.9998161196708679,Other
+958,Good,POSITIVE,0.9998161196708679,Other
+959,l apdate the app android bridge active,NEGATIVE,-0.8499207496643066,Other
+960,wow,POSITIVE,0.999592125415802,Other
+961,Awash #1,NEGATIVE,-0.9976425766944885,Other
+962,very good app,POSITIVE,0.9998675584793091,Other
+963,"It's a very cool, all-inclusive app, but it's difficult to use with data. If we make a little adjustment to it, we can use it more in places where there is no WiFi. Keep updating it.",NEGATIVE,-0.9901746511459351,Other
+964,0% attractiveness. am sorry.,NEGATIVE,-0.9937892556190491,Other
+965,easy to access,POSITIVE,0.9996585845947266,UX
+966,doesn't work,NEGATIVE,-0.9997408986091614,Other
+967,wow,POSITIVE,0.999592125415802,Other
+968,It gave me a headache. bad bad bad,NEGATIVE,-0.9997557997703552,Other
+969,bankn abstract fayida,NEGATIVE,-0.8692071437835693,Other
+970,Tilku,POSITIVE,0.9971722960472107,Other
+971,the transaction is not working???? fix it,NEGATIVE,-0.9997310042381287,Other
+972,sometimes The App Is not goibg through,NEGATIVE,-0.9926135540008545,Other
+973,"The worst app, also bank am begging for my own money",NEGATIVE,-0.9998120665550232,Features
+974,was Good 🙏,POSITIVE,0.9998513460159302,Other
+975,cool,POSITIVE,0.9998509883880615,Other
+976,Its Good,POSITIVE,0.9998385906219482,Other
+977,good,POSITIVE,0.9998161196708679,Other
+978,this app is good but the speed of app is very slow,NEGATIVE,-0.9952301979064941,Stability
+979,good,POSITIVE,0.9998161196708679,Other
+980,boa the best,POSITIVE,0.9998425245285034,Other
+981,bank of absiniya is best bank in ethiopian,POSITIVE,0.9997739195823669,Other
+982,አስተማማኝና ዘመኑን የዋጀ,NEGATIVE,-0.8337249755859375,Other
+983,good,POSITIVE,0.9998161196708679,Other
+984,extremely slow app and unreliable for most payment i have stuggled to much with this,NEGATIVE,-0.9994875192642212,Stability
+985,Amazing app,POSITIVE,0.9998670816421509,Other
+986,"I tried to oppen mobile app of BOA, but it can't work on my phone after activation. I can't login to it. the staffs tried their best and asked me the android version which is 16 and clear the catches, reinstall the app but the same restult × close the app. disappointing",NEGATIVE,-0.9992283582687378,Account
+987,nice app 👍👍👍,POSITIVE,0.9996724128723145,Other
+988,easy to understand,POSITIVE,0.9997355341911316,UX
+989,best,POSITIVE,0.9997941851615906,Other
+990,a wonderful Bank success app in Ethiopia 🇪🇹,POSITIVE,0.9998182654380798,Other
+991,nice,POSITIVE,0.9998552799224854,Other
+992,there's an error in app i don't ever know what's the case,NEGATIVE,-0.999702513217926,Stability
+993,BoA always❤,NEGATIVE,-0.971900999546051,Other
+994,the worst app,NEGATIVE,-0.9997969269752502,Other
+995,what an amazing service,POSITIVE,0.9998257756233215,Other
+996,abezash,POSITIVE,0.8301464319229126,Other
+997,😁😁ል,NEGATIVE,-0.6970561742782593,Other
+998,Not working,NEGATIVE,-0.9997778534889221,Other
+999,best,POSITIVE,0.9997941851615906,Other
+1000,nice,POSITIVE,0.9998552799224854,Other
+1001,everything new that other banks started abyssinia started it but this one year have been a disaster the mobile banking crashes everytime please do what you do best,NEGATIVE,-0.9982720613479614,Stability
+1002,"the best applcation,, how can winning byd car 😭🤣🤣",POSITIVE,0.9992448091506958,Other
+1003,good,POSITIVE,0.9998161196708679,Other
+1004,"the app does not show my account balance correctly compared to what I get with the SMS notification. Again and again I am not able to make transfers because the app has issues. The app has over years now frequently problems, doesn't load, or is sometimes not working entirely and I can not open it. Even to the point that I question the rating of this app if it's true or distorted. I am not sure how it can be 4 stars something, when in real life the app just doesn't work a lot of the time.",NEGATIVE,-0.9996778964996338,Account
+1005,excellent service,POSITIVE,0.9998576641082764,Other
+1006,it very slow to access the app when urgent,NEGATIVE,-0.9997734427452087,Stability
+1007,very Good app,POSITIVE,0.9998675584793091,Other
+1008,best i ethiopia,POSITIVE,0.9996500015258789,Other
+1009,when i try to see my balance the app logs me out.i try to uninstall the app and install it when i try to login again it says login expired.the worest mobile banking in ethiopia. fix it,NEGATIVE,-0.9978908896446228,Account
+1010,good,POSITIVE,0.9998161196708679,Other
+1011,like,POSITIVE,0.9910564422607422,Other
+1012,Why transfer to telebirr agent doesn't work?,NEGATIVE,-0.9995895028114319,Features
+1013,best 👌 app in entire industry,POSITIVE,0.9995336532592773,Other
+1014,besst app,NEGATIVE,-0.9778177738189697,Other
+1015,good 👍,POSITIVE,0.9998576641082764,Other
+1016,ksanet hayle,POSITIVE,0.9805410504341125,Other
+1017,this app is not use my pbone android 16 and not fix boa nearest branch how to use this app,NEGATIVE,-0.9992895126342773,Other
+1018,"disappointing experience .couldn't even do transactions ,so slow .you should check and update it please",NEGATIVE,-0.954887330532074,Stability
+1019,poor functional and also very interactive customer service at branch,NEGATIVE,-0.9996819496154785,Other
+1020,low networks,NEGATIVE,-0.9996498823165894,Other
+1021,Fast& Modern,POSITIVE,0.9997683167457581,Other
+1022,very nice service appreciated 👍,POSITIVE,0.9997658133506775,Other
+1023,it's not working always says error occured,NEGATIVE,-0.9997019171714783,Stability
+1024,good,POSITIVE,0.9998161196708679,Other
+1025,fast and reliable app,POSITIVE,0.9997852444648743,Other
+1026,good,POSITIVE,0.9998161196708679,Other
+1027,እረተውኝ,NEGATIVE,-0.6970561742782593,Other
+1028,good,POSITIVE,0.9998161196708679,Other
+1029,its good,POSITIVE,0.9998385906219482,Other
+1030,updte,POSITIVE,0.7714943289756775,Other
+1031,nice,POSITIVE,0.9998552799224854,Other
+1032,"Personal opinion: If Abyssinia Mobile Banking allows you to use data from the SIM card where banking is activated, for example, if the connection to the WiFi router stops, if it is possible to use the SIM card where it was activated, and if the password can finally be re-entered 🙏",NEGATIVE,-0.9979731440544128,Account
+1033,stupid app! when i try to send money it says error occured,NEGATIVE,-0.9997918009757996,Stability
+1034,i loveit,POSITIVE,0.9998107552528381,Other
+1035,Boa yleyal,POSITIVE,0.9783289432525635,Other
+1036,lovely,POSITIVE,0.9998601675033569,Other
+1037,other bank is very slow,NEGATIVE,-0.9989757537841797,Stability
+1038,good,POSITIVE,0.9998161196708679,Other
+1039,When transaction done form BOA to Other Bank accounts the receipt does not include the name of receipant(the who receive the money),NEGATIVE,-0.9987573623657227,Account
+1040,Niyse,POSITIVE,0.7925686240196228,Other
+1041,good,POSITIVE,0.9998161196708679,Other
+1042,my choice BOA,POSITIVE,0.739587664604187,Other
+1043,በጣም ጥሩ ነው,NEGATIVE,-0.8337249755859375,Other
+1044,smart app,POSITIVE,0.999789297580719,Other
+1045,emails connect to pone numbers link all the city banks by location naw,NEGATIVE,-0.9878550171852112,Other
+1046,good,POSITIVE,0.9998161196708679,Other
+1047,good,POSITIVE,0.9998161196708679,Other
+1048,My favorite app,POSITIVE,0.9983345866203308,Other
+1049,very good,POSITIVE,0.9998520612716675,Other
+1050,smart app smart bank,POSITIVE,0.999352753162384,Other
+1051,You can't rely on Abyssinia. They are the worst,NEGATIVE,-0.9985235333442688,Other
+1052,its the the bank of bank,POSITIVE,0.8855547904968262,Other
+1053,good app,POSITIVE,0.9998493194580078,Other
+1054,beti araya,POSITIVE,0.9919483661651611,Other
+1055,ok app,POSITIVE,0.9997081160545349,Other
+1056,something is wrong,NEGATIVE,-0.9988584518432617,Other
+1057,abanamu boriifuu hindhabamu horiinu ajiraanu woliinuu,NEGATIVE,-0.980297327041626,Other
+1058,good up except some sluggishness,POSITIVE,0.9930061101913452,Other
+1059,good app,POSITIVE,0.9998493194580078,Other
+1060,it is not bad it just ok,POSITIVE,0.9996962547302246,Other
+1061,well,POSITIVE,0.9995703101158142,Other
+1062,i can't transfer money to other bank. 😒😒,NEGATIVE,-0.9885262250900269,Features
+1063,doesn't work,NEGATIVE,-0.9997408986091614,Other
+1064,cheru birhanu,POSITIVE,0.8392426371574402,Other
+1065,This app good b/c reduce my time,POSITIVE,0.9903632998466492,Other
+1066,Machin tecnoloj,NEGATIVE,-0.9505836367607117,Other
+1067,developer option offe,NEGATIVE,-0.9993467926979065,Other
+1068,"Bank of Abyssinia used to be the best for me, but now I don’t think so. I spent the whole day at the branch trying to fix my mobile banking, yet nothing changed. I was asked repeatedly for my ID and signature without any real solution. It’s disappointing and frustrating to see such poor service. I expected much better 🙏 Please fix this urgently 🙏",NEGATIVE,-0.9996219873428345,Account
+1069,good!,POSITIVE,0.9998268485069275,Other
+1070,BoA Mobile app,NEGATIVE,-0.7573513388633728,Other
+1071,good,POSITIVE,0.9998161196708679,Other
+1072,it is simple and fast app,POSITIVE,0.9995757937431335,Other
+1073,awful,NEGATIVE,-0.9997954964637756,Other
+1074,👍👍👍,NEGATIVE,-0.6970561742782593,Other
+1075,ቤጣም ጥሩ ነው ግን ኖ ፍጥነት ብዙ ስታክ ኦኬ,NEGATIVE,-0.9322324395179749,Other
+1076,best app,POSITIVE,0.999686598777771,Other
+1077,awesome and fast app it uses to do my work easier..🥰,POSITIVE,0.999792754650116,Other
+1078,simple and fast,POSITIVE,0.9998082518577576,Other
+1079,very good appreciation trusted,POSITIVE,0.9998399019241333,Other
+1080,very nice app u love it,POSITIVE,0.9998660087585449,Other
+1081,happy,POSITIVE,0.9998753070831299,Other
+1082,The worst banking app ever. When I toggle the balance button it shows session expired. I can't even check balance😔,NEGATIVE,-0.9997931122779846,Other
+1083,Secured and rely on BOA.,POSITIVE,0.9813457131385803,Other
+1084,good,POSITIVE,0.9998161196708679,Other
+1085,Nice App,POSITIVE,0.9998061060905457,Other
+1086,Good,POSITIVE,0.9998161196708679,Other
+1087,very good app,POSITIVE,0.9998675584793091,Other
+1088,good to use,POSITIVE,0.9998455047607422,Other
+1089,excellent!,POSITIVE,0.9998645782470703,Other
+1090,Thanks bank of Abisiniya,POSITIVE,0.999427080154419,Other
+1091,good ap,POSITIVE,0.9998272061347961,Other
+1092,Very nice application,POSITIVE,0.9998540878295898,Other
+1093,the BoA is the smartest app,POSITIVE,0.9996989965438843,Other
+1094,nice,POSITIVE,0.9998552799224854,Other
+1095,Wow!!,POSITIVE,0.9997237324714661,Other
+1096,v.good,POSITIVE,0.9948773980140686,Other
+1097,wow,POSITIVE,0.999592125415802,Other
+1098,best,POSITIVE,0.9997941851615906,Other
+1099,very excellent and truth application.,POSITIVE,0.9998695850372314,Other
+1100,very good,POSITIVE,0.9998520612716675,Other
+1101,"All problems are fixed now , easy to use recommended.",POSITIVE,0.7008944153785706,UX
+1102,it is slow app pls update more,NEGATIVE,-0.9995323419570923,Stability
+1103,good,POSITIVE,0.9998161196708679,Other
+1104,amazing app ever,POSITIVE,0.9998624324798584,Other
+1105,It did not work at all for me,NEGATIVE,-0.9997672438621521,Other
+1106,besat🥰,NEGATIVE,-0.6970561742782593,Other
+1107,amazing 😄 service I appreciate it,POSITIVE,0.9998668432235718,Other
+1108,no limit app,POSITIVE,0.9424847364425659,Other
+1109,Very excayeted and degjetalization more accecing to any markate enabled servece also hamble so more atande,NEGATIVE,-0.9048976898193359,Other
+1110,Best !,POSITIVE,0.9998348951339722,Other
+1111,the app is always full of bugs and I don't know why they don't even try to fix them it's been like this for years it's always unstable,NEGATIVE,-0.9989802241325378,Stability
+1112,very good,POSITIVE,0.9998520612716675,Other
+1113,fast app,POSITIVE,0.9983617663383484,Other
+1114,best app,POSITIVE,0.999686598777771,Other
+1115,very good service,POSITIVE,0.9998648166656494,Other
+1116,lovely app,POSITIVE,0.9998546838760376,Other
+1117,"BoA easily accessible, fast with best service, Go ahead",POSITIVE,0.9996600151062012,Other
+1118,its so amazing,POSITIVE,0.999879002571106,Other
+1119,good,POSITIVE,0.9998161196708679,Other
+1120,Now this bank is among those Ethiopian banks with best mobile banking. N.B I will give 5 star if the app asks a PIN before completing transaction.,POSITIVE,0.9972361922264099,Other
+1121,love BOA,POSITIVE,0.9997603297233582,Other
+1122,wow,POSITIVE,0.999592125415802,Other
+1123,i like,POSITIVE,0.9998149275779724,Other
+1124,it stucks and jumps out,NEGATIVE,-0.9759269952774048,Stability
+1125,ማስተዋልይርሳው,NEGATIVE,-0.6970561742782593,Other
+1126,1 ደኛ,NEGATIVE,-0.7333013415336609,Other
+1127,nice,POSITIVE,0.9998552799224854,Other
+1128,considering the fact that bank is huge this app really bad you could do better,NEGATIVE,-0.9997078776359558,Other
+1129,fast security 🔥🔥🔥,POSITIVE,0.9876085519790649,Other
+1130,100% 😱😱,POSITIVE,0.9974650144577026,Other
+1131,doesn't work.,NEGATIVE,-0.9997673630714417,Other
+1132,nice,POSITIVE,0.9998552799224854,Other
+1133,atdtd,NEGATIVE,-0.8663635849952698,Other
+1134,Its so boaring app I ever had....please review and fix z deficulties,NEGATIVE,-0.9886196851730347,Other
+1135,ፈት አፈዘ,NEGATIVE,-0.7850580811500549,Other
+1136,profesionl,NEGATIVE,-0.987149178981781,Other
+1137,nice,POSITIVE,0.9998552799224854,Other
+1138,very nice,POSITIVE,0.9998563528060913,Other
+1139,no app,NEGATIVE,-0.9996392726898193,Other
+1140,BOA mobile app,NEGATIVE,-0.7573513388633728,Other
+1141,"Good App But big problem with Trasfer to other Bank im send some money to other bank still not reach it ,it's take time around two days",NEGATIVE,-0.9948278069496155,Features
+1142,Use the best bank account ✅👌👌👌,POSITIVE,0.9632344841957092,Account
+1143,well app,POSITIVE,0.9993765950202942,Other
+1144,"balance sync is working after 24 hours, frequently stop working for the last 4 yrs, boring update released, very poor service",NEGATIVE,-0.9993014335632324,Other
+1145,Excellent service thanks,POSITIVE,0.9998632669448853,Other
+1146,good,POSITIVE,0.9998161196708679,Other
+1147,good,POSITIVE,0.9998161196708679,Other
+1148,Good,POSITIVE,0.9998161196708679,Other
+1149,it crush every time you opend it it is hard to pay quickly or to access,NEGATIVE,-0.9992928504943848,UX
+1150,it is a best app,POSITIVE,0.9998170733451843,Other
+1151,"this app is useless, i try to use it but the app crash and log me out and this is happen again and again. i thought they will fix it on update but there is no update.",NEGATIVE,-0.9991432428359985,Stability
+1152,"It’s very hard, it’s not working.👎👎",NEGATIVE,-0.9997758269309998,Other
+1153,v.good,POSITIVE,0.9948773980140686,Other
+1154,some time the app would have been a problem to open,NEGATIVE,-0.9992311000823975,Other
+1155,good,POSITIVE,0.9998161196708679,Other
+1156,good,POSITIVE,0.9998161196708679,Other
+1157,Its not work accurately please improve your mobile banking,NEGATIVE,-0.9996246099472046,Other
+1158,the most doagusting app from ethiopian banking especially on weekdenda🤮🤮🤮🤮🤮🤮🤮,POSITIVE,0.6832613945007324,Other
+1159,wondo mechesa,POSITIVE,0.998038113117218,Other
+1160,good but the user interface and animations need some upgrade,NEGATIVE,-0.9854516386985779,UX
+1161,what is wrong these app ?,NEGATIVE,-0.9995942711830139,Other
+1162,very good app,POSITIVE,0.9998675584793091,Other
+1163,unsatisfied to your mobile banking application,NEGATIVE,-0.9980995059013367,Other
+1164,"Whenever I want to see my balance, the app says “no” and logs me out. Looks like the developer doesn’t want customers to know the truth 😄! This app really protects my money. It logs me out before I can even see my balance. 👉 Honestly, this app doesn’t reflect the quality of Bank of Abyssinia.",NEGATIVE,-0.9990193843841553,Features
+1165,"BoA Mobile is boring, imagine if you install it to your phone it crash when once used and require reinstall. I downloaded ten times but it still crashing.",NEGATIVE,-0.9994872808456421,Stability
+1166,እሽቱ,NEGATIVE,-0.6970561742782593,Other
+1167,very clumsy application. it sucks alot.,NEGATIVE,-0.9997543692588806,Other
+1168,so perfect in everything,POSITIVE,0.999875545501709,Other
+1169,yse good ap,POSITIVE,0.9995238780975342,Other
+1170,the worst Mobile banking app👎👎👎👎,NEGATIVE,-0.9998025298118591,Other
+1171,እየሩስ ፣አይለ፣,NEGATIVE,-0.8616322875022888,Other
+1172,very nice,POSITIVE,0.9998563528060913,Other
+1173,very Good application,POSITIVE,0.9998687505722046,Other
+1174,yes,POSITIVE,0.9997805953025818,Other
+1175,app doesnt work,NEGATIVE,-0.999457061290741,Other
+1176,it's too slow and when you are in a hurry don't use this app,NEGATIVE,-0.9989222288131714,Stability
+1177,The worest app ever .work hard and do betterthan this,NEGATIVE,-0.9422697424888611,Other
+1178,The app is always glitch seems there's is significant issue from the backend. Can someone take a look on this or just remove from appstore this trash 🗑 🙄. Thank you.,NEGATIVE,-0.9988576173782349,Account
+1179,n m ű,POSITIVE,0.8321126699447632,Other
+1180,so good,POSITIVE,0.999841570854187,Other
+1181,my app is not working .,NEGATIVE,-0.9997945427894592,Other
+1182,"Problems with internet, the app sometimes says there is no internet connection while Internet Data is on. this needs to be fixed, it's unacceptable not being able to access your bank account when you need it.",NEGATIVE,-0.999695897102356,Account
+1183,"There's only one word to describe BOA mobile banking app, and it's 'እንጨት'. It's been the worst experience and it's continuing to be so.",NEGATIVE,-0.9997850060462952,UX
+1184,not good update it again,NEGATIVE,-0.9996786117553711,Other
+1185,the app not works on samsung galaxy A06 models it's directly kick you out of the app whenever u want to use it amd and then it's says the app is not working i hope they fix it soon,NEGATIVE,-0.9996317625045776,Other
+1186,The worest banking app i ever used,POSITIVE,0.9593278169631958,Other
+1187,"This app is the worst app I've ever seen. Unless the developer fixes it, BOA will lose all its customers.",NEGATIVE,-0.9998050332069397,Other
+1188,yetemeta app nw cherash nw apk west maygebawu beza sebeb absiniya tesenabichalewu,NEGATIVE,-0.990407407283783,Other
+1189,ደገፉ ፈፊኘየየከ ወግወ ደገፉ,NEGATIVE,-0.8616322875022888,Other
+1190,good,POSITIVE,0.9998161196708679,Other
+1191,good 👍👍👍,POSITIVE,0.9998576641082764,Other
+1192,best digital financing app in ethiopia,POSITIVE,0.9993425011634827,Other
+1193,wooow,NEGATIVE,-0.9839174747467041,Other
+1194,very good to be continued to update,POSITIVE,0.9998534917831421,Other
+1195,የአቢሲኒያ ባንክ app,NEGATIVE,-0.6179786920547485,Other
+1196,አፕሊኬሽኑ መጨረሻ ቀርፋፋ ነው:: 2G,NEGATIVE,-0.978131890296936,Other
+1197,best,POSITIVE,0.9997941851615906,Other
+1198,"what is this the 19 century 😡,we can't even see our balance,this app is going backwards 😤",NEGATIVE,-0.99897301197052,Other
+1199,The worst Mobile banking app in Ethiopia,NEGATIVE,-0.9997841715812683,Other
+1200,great,POSITIVE,0.9998630285263062,Other
+1201,Applicationa kerem delile,NEGATIVE,-0.9970144033432007,Other
+1202,fast,POSITIVE,0.9989494681358337,Other
+1203,Good,POSITIVE,0.9998161196708679,Other
+1204,good,POSITIVE,0.9998161196708679,Other
+1205,best,POSITIVE,0.9997941851615906,Other
+1206,nice,POSITIVE,0.9998552799224854,Other
+1207,WE EXPECT IT WILL BE MORE AND MORE FASTER THAN EARLIER!,NEGATIVE,-0.9444257616996765,Other
+1208,Amazing App 👏,POSITIVE,0.9997918009757996,Other
+1209,Niec app,POSITIVE,0.7498568296432495,Other
+1210,best app of the year,POSITIVE,0.9997411370277405,Other
+1211,waw,NEGATIVE,-0.7346187829971313,Other
+1212,it constantly bugs and doesnt open what is the purpose of mobile banking app if i dont use it when i need it?,NEGATIVE,-0.9996134638786316,Stability
+1213,good,POSITIVE,0.9998161196708679,Other
+1214,good,POSITIVE,0.9998161196708679,Other
+1215,"please fix the bug this app does not work, it says Error The request was not successful. Please check device connectivity or try again.",NEGATIVE,-0.9997721314430237,Stability
+1216,not bad,POSITIVE,0.9995881915092468,Other
+1217,nice banking,POSITIVE,0.999849796295166,Other
+1218,what a bad app... cant even learn from CBE ... how can they even improve?,NEGATIVE,-0.999813973903656,Other
+1219,it stuck everytime when i use it . the app won't budge to even open,NEGATIVE,-0.9977149963378906,Stability
+1220,i don't find it good and now it is not working!,NEGATIVE,-0.9997889399528503,Other
+1221,Make the reason we wrote visible on app transaction.,NEGATIVE,-0.9711726903915405,Other
+1222,app is note active working crash,NEGATIVE,-0.8487376570701599,Stability
+1223,Very Good,POSITIVE,0.9998520612716675,Other
+1224,goof,NEGATIVE,-0.9975278973579407,Other
+1225,good!,POSITIVE,0.9998268485069275,Other
+1226,bad exprience...it is so crushed,NEGATIVE,-0.9998053908348083,Other
+1227,not user friendly at all it requires a huge connectivity and also lags many times 😑😑😑,NEGATIVE,-0.9997656941413879,UX
+1228,ምንም የማይ ሰራ,NEGATIVE,-0.8337249755859375,Other
+1229,very good,POSITIVE,0.9998520612716675,Other
+1230,most of the time is not working properly,NEGATIVE,-0.9997636675834656,Other
+1231,good service,POSITIVE,0.9998499155044556,Other
+1232,not use for me,NEGATIVE,-0.9953739047050476,Other
+1233,It keeps notifying me to disable developer options and quiet while I'm not enabled. always bring another type of problem with new updates.,NEGATIVE,-0.9968326687812805,UX
+1234,waw,NEGATIVE,-0.7346187829971313,Other
+1235,the lag is unbelievable when you need it the most this suks,NEGATIVE,-0.9983174800872803,Other
+1236,I cant belive I could find the worst bank app ever .yet very simple to fix the problem and the company just ignored it. no body can do business with this kind of app.,NEGATIVE,-0.999693751335144,Other
+1237,it is a good app,POSITIVE,0.9998643398284912,Other
+1238,it is not working at all,NEGATIVE,-0.9997811913490295,Other
+1239,🥰🥰🥰🥰🥰 app is good but i was live in abroad and when i enter my otp code it didnt make me to write my code it the app want it self write thats not fair so please other wise i like it why,POSITIVE,0.8251615762710571,Account
+1240,when trying to activate the app it keeps on loading on the security questions page. It has been two days,NEGATIVE,-0.9952510595321655,Other
+1241,fast and simple,POSITIVE,0.9997392296791077,Other
+1242,best of best,POSITIVE,0.9997496008872986,Other
+1243,Worest Banking App Ever I seen. Fake App Bad Better to Leave,NEGATIVE,-0.9993888139724731,Other
+1244,good,POSITIVE,0.9998161196708679,Other
+1245,"I would like to share feedback regarding the application. It frequently experiences disruptions and does not function properly, often freezing or failing to load. This issue is affecting workflow and efficiency. Kindly review and address this problem to ensure smoother performance.",NEGATIVE,-0.9947029948234558,Other
+1246,Meet you genuine.App I tried is not functional.Helping.welldoingwith BOA Ethiopia .fastandrelevant.morconnecting Digitalyworld.Digitalyworld. thanks.,NEGATIVE,-0.8848847150802612,UX
+1247,best app,POSITIVE,0.999686598777771,Other
+1248,Best app,POSITIVE,0.999686598777771,Other
+1249,"Barely works, it always fails to connect",NEGATIVE,-0.9997532963752747,Other
+1250,this app launch time is so long also has dozen bugs in addition it's has been long time get update,NEGATIVE,-0.9977949857711792,Stability
+1251,very nice,POSITIVE,0.9998563528060913,Other
+1252,"Your application is very irritating to use, some functionality doesn't even work like on the card management. You need to do better than this and it good idea to reference other banking applications.",NEGATIVE,-0.9985816478729248,Features
+1253,I like,POSITIVE,0.9998149275779724,Other
+1254,ወይ አሻሽሉትና እንጠቀምበት ያለያ ብታጠፉት ይሻላል። በቃ ምንም ነገር አይሰራም መተግበሪያ አለን ብላችሁ እንዳታወሩ ለማንም የማይመከር ቀርፋፋና ተግባር የለሽ መተግበሪያ,NEGATIVE,-0.9608767628669739,Other
+1255,i m sorry but it doesn't work for my android it is too slow but other bank are very fast please update,NEGATIVE,-0.9083417654037476,Stability
+1256,"the worst app ever,",NEGATIVE,-0.9997932314872742,Other
+1257,better,POSITIVE,0.999264657497406,Other
+1258,"I kindly request that Bank of abyssinia address issues with its mobile app. It is very slow, has numerous problems, and frequently experiences downtime. The user experience is also poor. Thank you.",NEGATIVE,-0.99928218126297,Stability
+1259,this app can't open? what is problem? please solve my problem?,NEGATIVE,-0.9996218681335449,Other
+1260,kiyaa makonn,POSITIVE,0.7175905704498291,Other
+1261,very very lazy app,NEGATIVE,-0.9996856451034546,Other
+1262,telebirr remittance,NEGATIVE,-0.9799609780311584,Other
+1263,The best bank in 🇪🇹,POSITIVE,0.9998179078102112,Other
+1264,its good,POSITIVE,0.9998385906219482,Other
+1265,the worst app in my financial experience.,NEGATIVE,-0.9997914433479309,Other
+1266,good for mb appliciation,POSITIVE,0.9943337440490723,Other
+1267,the worst bank ever. slow don't accept dual sim. they are very stupid and greedy,NEGATIVE,-0.9997623562812805,Stability
+1268,try to easy network,NEGATIVE,-0.9987332224845886,UX
+1269,hussen hassen umer,POSITIVE,0.8681219816207886,Other
+1270,"The app is not suitable and lacks a good UI design. As a large bank, you must update your app with a professional UI that is fast and appropriate.",NEGATIVE,-0.9988431930541992,Account
+1271,an exceptional banking app.,POSITIVE,0.9997233748435974,Other
+1272,alhamdulilah,POSITIVE,0.8558269739151001,Other
+1273,poor,NEGATIVE,-0.9997912049293518,Other
+1274,Best of best,POSITIVE,0.9997496008872986,Other
+1275,from the last week updates the app is not working Please check the problems,NEGATIVE,-0.9996919631958008,Other
+1276,It's always crushing,NEGATIVE,-0.9993805885314941,Other
+1277,office branches have to improve their services please,POSITIVE,0.6649675369262695,Other
+1278,♥️♥️,POSITIVE,0.9437573552131653,Other
+1279,Why does it keep crashing? I can't even use this. BOA should do better. You have many customers and how to deal with this. I can't send money now.,NEGATIVE,-0.9988381266593933,Stability
+1280,it needs a timely update,NEGATIVE,-0.9983032941818237,Other
+1281,"It does not show the name of the person who sent the money to request a receipt. This has become very difficult for us. When different people transfer the same amount to me from different banks, it is very difficult to identify the account or the name of the sender.",NEGATIVE,-0.9997054934501648,Account
+1282,Like,POSITIVE,0.9910564422607422,Other
+1283,I can't type my otp on it.,NEGATIVE,-0.9990899562835693,Account
+1284,"most of bank apps in Ethiopia are linked with ethiopian phone number, I live in US permanently so when I open BoA account, I told them where I live and to link it with email address instead of phone # as ethio phone number is not working where I live, unfortunetly my fear appeared and now when I change my phone device, it send the code to the ethio number which is not with me now. so please when u develop bank apps consider the diaspora community to use ur apps",NEGATIVE,-0.9977109432220459,Account
+1285,jaajja,NEGATIVE,-0.9872855544090271,Other
+1286,I love this bank the best experience ever.,POSITIVE,0.9998602867126465,Other
+1287,"Nothing has been improved, it doesn't work like the previous version.",NEGATIVE,-0.9997023940086365,Other
+1288,Great,POSITIVE,0.9998630285263062,Other
+1289,mobile banking,POSITIVE,0.9076535105705261,Other
+1290,very good,POSITIVE,0.9998520612716675,Other
+1291,"need alot of connection, chooses device, very lug even when there is connection",NEGATIVE,-0.9918755292892456,Other
+1292,On my ios it's perfect but on android it barley works and don't transfer and after a while it crushed and totally stopped working. Please fix the issue my beloved bank of abyssinia.,NEGATIVE,-0.9964402318000793,Features
+1293,none,NEGATIVE,-0.985345721244812,Other
+1294,good,POSITIVE,0.9998161196708679,Other
+1295,good,POSITIVE,0.9998161196708679,Other
+1296,very good app i ever used,POSITIVE,0.9998385906219482,Other
+1297,its nice app especially the transaction limit is extended but We face that BoA m.banking app doesn't respond at the activation stage strictly at SMSNG mobile phone. please try this to make safe.,NEGATIVE,-0.9979867935180664,Other
+1298,zedo,POSITIVE,0.994045615196228,Other
+1299,please open my mobile app,POSITIVE,0.9873003363609314,Other
+1300,it doesn't open,NEGATIVE,-0.9997527003288269,Other
+1301,Very Good,POSITIVE,0.9998520612716675,Other
+1302,Best banking transaction application in Ethiopia !,POSITIVE,0.9996905326843262,Other
+1303,السلام عليكم ورحمة الله وبركاته ماشاء الله تبارك الرحمن هذا التطبيق ممتاز جدا,NEGATIVE,-0.5818172097206116,Other
+1304,tamaam kamal,POSITIVE,0.9918873906135559,Other
+1305,በጣም ሐሪፍ,NEGATIVE,-0.7850580811500549,Other
+1306,great 👍,POSITIVE,0.9997692704200745,Other
+1307,goof,NEGATIVE,-0.9975278973579407,Other
+1308,absiniya banki,NEGATIVE,-0.9083037972450256,Other
+1309,has issue after installation and i think it doesn't work with tecno common 30,NEGATIVE,-0.9996929168701172,Other
+1310,One of the best in this business,POSITIVE,0.9998694658279419,Other
+1311,Excellent,POSITIVE,0.9998434782028198,Other
+1312,besat🥰,NEGATIVE,-0.6970561742782593,Other
+1313,unlimited experience,POSITIVE,0.9997161030769348,Other
+1314,"as bank, u should at least hire someone good at their job bc this a joke nowadays I can't even log in or even transfer without it crashing if u fix the app I will update this review I am counting on u boa update: so they atleast fixed it but as suggestion can u put password when in final step of sending money it will feel more secure that way",NEGATIVE,-0.9991239905357361,Stability
+1315,very nice mobile banking app my favourite,POSITIVE,0.9997608065605164,Other
+1316,"it almost never boots up!!! and even if it did, it crashes immediately",NEGATIVE,-0.9977737069129944,Stability
+1317,best apps,POSITIVE,0.999784529209137,Other
+1318,the worst app ever to exist in a bank history,NEGATIVE,-0.9997841715812683,Other
+1319,thank you,POSITIVE,0.9998352527618408,Other
+1320,Best mobile app in the country,POSITIVE,0.999710738658905,Other
+1321,not fast,NEGATIVE,-0.9949790835380554,Other
+1322,keeps freezing at the front page.,NEGATIVE,-0.9948282837867737,Other
+1323,it is not working on redminote 11 pro+ pls fix it,NEGATIVE,-0.9996861219406128,Other
+1324,abseniya bank app,NEGATIVE,-0.6962230801582336,Other
+1325,good,POSITIVE,0.9998161196708679,Other
+1326,yes goode app,POSITIVE,0.9997490048408508,Other
+1327,Great App,POSITIVE,0.999821126461029,Other
+1328,1) Crashes repeatedly 2) Takes Century to Boot 3) Repeatedly requires Update which is very annoying. 4) It doesn't ask for Password for one step confirmation when transferring money. 5) Automatically stops music when the app is launched (it doesn't really matter just fyi) Overall this have to be the worst mobile banking app I have tried so far and should not be released with all these bugs & issues.,NEGATIVE,-0.999749481678009,Stability
+1329,ረጀብነሱ,NEGATIVE,-0.6970561742782593,Other
+1330,The Worst Mobile Banking App.,NEGATIVE,-0.9997994303703308,Other
+1331,giod,POSITIVE,0.9893913269042969,Other
+1332,best bank in ethiopia,POSITIVE,0.999733030796051,Other
+1333,waqayyoo,POSITIVE,0.5036894679069519,Other
+1334,please is not working,NEGATIVE,-0.9997643828392029,Other
+1335,nothing when I need to install the Apk it say that re-up date,NEGATIVE,-0.9985933899879456,Other
+1336,I can log in from any where,NEGATIVE,-0.9497750401496887,Other
+1337,no proplem,NEGATIVE,-0.9912227392196655,Other
+1338,👍👍👍,NEGATIVE,-0.6970561742782593,Other
+1339,excellent app,POSITIVE,0.9998356103897095,Other
+1340,good work,POSITIVE,0.9998413324356079,Other
+1341,excellent,POSITIVE,0.9998434782028198,Other
+1342,Great BoA,POSITIVE,0.9992689490318298,Other
+1343,Good,POSITIVE,0.9998161196708679,Other
+1344,Okay,POSITIVE,0.9997709393501282,Other
+1345,not working,NEGATIVE,-0.9997778534889221,Other
+1346,This App is Getting worse and worse with every update,NEGATIVE,-0.999568521976471,Other
+1347,ምርጥ ነው,NEGATIVE,-0.7850580811500549,Other
+1348,nice,POSITIVE,0.9998552799224854,Other
+1349,Best app,POSITIVE,0.999686598777771,Other
+1350,meku,POSITIVE,0.9421752095222473,Other
+1351,nice,POSITIVE,0.9998552799224854,Other
+1352,awasome app go a head,NEGATIVE,-0.9980922341346741,Other
+1353,it sucks as hell. it crashes most of the time and takes a long time to load .,NEGATIVE,-0.9994389414787292,Stability
+1354,Easy and very nice app to load more than the previouse but in recent time some loading problem detected.,NEGATIVE,-0.9851245880126953,UX
+1355,wow,POSITIVE,0.999592125415802,Other
+1356,"The worst MBA I have experienced, The app crush frequently and they take to long to fix the problem even more than a week.",NEGATIVE,-0.9996988773345947,Other
+1357,amazing Banks App👌👌,POSITIVE,0.9998063445091248,Other
+1358,goof,NEGATIVE,-0.9975278973579407,Other
+1359,good App fore me,POSITIVE,0.9998444318771362,Other
+1360,"very uninterested it's not working when the ""developer mode on"" i haven't off the developer options i preferred to uninstall your app .....",NEGATIVE,-0.9995253086090088,Other
+1361,fantastic,POSITIVE,0.9998743534088135,Other
+1362,it's nice to use.,POSITIVE,0.999835729598999,Other
+1363,app doesn't start,NEGATIVE,-0.9973676800727844,Other
+1364,Excellent application,POSITIVE,0.9998571872711182,Other
+1365,its very bad app its very slow,NEGATIVE,-0.9998086094856262,Stability
+1366,ብዙዬ ሺዋየ በለጠ,NEGATIVE,-0.8337249755859375,Other
+1367,good,POSITIVE,0.9998161196708679,Other
+1368,Good job!,POSITIVE,0.9998481273651123,Other
+1369,best financial app.,POSITIVE,0.9997761845588684,Other
+1370,ቆንጆ ነው በርቱ,NEGATIVE,-0.8337249755859375,Other
+1371,the worst app humans ever created,NEGATIVE,-0.9998008608818054,Other
+1372,it's not working,NEGATIVE,-0.9997857213020325,Other
+1373,"Hello, I’m facing a problem with the BOA Mobile app. Every time I enter my phone number and password, the app crashes and shows an error that says “BoaMobile closed because this app has a bug.” I tried updating, reinstalling, and clearing cache, but nothing worked. Please fix this bug in the next update. I really need access to my account. Thank you.",NEGATIVE,-0.9994151592254639,Stability
+1374,exceptional,POSITIVE,0.9998514652252197,Other
+1375,BoA Mobile good bank,POSITIVE,0.9984728693962097,Other
+1376,this is worest app 24/7 loading,NEGATIVE,-0.9934743046760559,Other
+1377,BoA system is confartable,NEGATIVE,-0.9980142116546631,Other
+1378,"this app, for me , is a waste of time. It doesn't work . I can't even long in, and it really piss me off. FIX THE PROBLEM",NEGATIVE,-0.9998049139976501,Other
+1379,Good service.,POSITIVE,0.9998533725738525,Other
+1380,the app crush frequently,NEGATIVE,-0.998525083065033,Other
+1381,good,POSITIVE,0.9998161196708679,Other
+1382,You guys keeps getting worst,NEGATIVE,-0.9997075200080872,Other
+1383,good,POSITIVE,0.9998161196708679,Other
+1384,"This app is a joke. It crashes more than it works, takes forever to load, and half the features are just decorative at this point. Can’t log in, can’t transfer money, can’t even check my balance without it bugging out. To the developer: Are you actually trying to make this work, or is this some kind of social experiment to test our patience? Did you build this in your sleep? Because it definitely looks like it. If this is your idea of a functional app, maybe consider a different career path🙏",NEGATIVE,-0.9990266561508179,Stability
+1385,BoA,NEGATIVE,-0.7410506010055542,Other
+1386,good,POSITIVE,0.9998161196708679,Other
+1387,but not opening on android,NEGATIVE,-0.9952228665351868,Other
+1388,Worst App ever. Totally unreliable. And it didn't work at all for the last 4 months.,NEGATIVE,-0.9997984766960144,Other
+1389,amazing,POSITIVE,0.999875545501709,Other
+1390,excellent,POSITIVE,0.9998434782028198,Other
+1391,"this app does no work on Samsung a51, it just gives a preview of the logo",NEGATIVE,-0.9992283582687378,Other
+1392,nice,POSITIVE,0.9998552799224854,Other
+1393,"i entered incorrect security question by mistake boa app lock pin forever, why is there no other options? ?? i contacted different branchs more then 4times but they didn't able to solve this issue .",NEGATIVE,-0.9994921684265137,Other
+1394,Best app,POSITIVE,0.999686598777771,Other
+1395,liking this application good 👍,POSITIVE,0.9996829032897949,Other
+1396,"This app future is good, but there is problems with apps to reset and activate it, which is difficult even to the branch staffs, and it takes too long times to active at the branch plus most of the time high expected failure of activation after process at the counter and OTP sent not work",NEGATIVE,-0.9989790916442871,Account
+1397,good,POSITIVE,0.9998161196708679,Other
+1398,good,POSITIVE,0.9998161196708679,Other
+1399,good,POSITIVE,0.9998161196708679,Other
+1400,good,POSITIVE,0.9998161196708679,Other
+1401,wow,POSITIVE,0.999592125415802,Other
+1402,it's really good 👍,POSITIVE,0.9998701810836792,Other
+1403,Bad app . it stuck when you open and noting WORKS.,NEGATIVE,-0.9995198249816895,Stability
+1404,"the app isn't working after it asked me the password it starts loading, but it doesn't open",NEGATIVE,-0.9997255206108093,Account
+1405,Best,POSITIVE,0.9997941851615906,Other
+1406,It keeps showing this pop up to turn off developer options even tho it's off! I had to turn on and then off to make it work! This is a horrible experience and needs a fix asap! Plus kinda slow.,NEGATIVE,-0.9996699094772339,Stability
+1407,yideg,NEGATIVE,-0.7675812840461731,Other
+1408,great boa,POSITIVE,0.9992689490318298,Other
+1409,Best,POSITIVE,0.9997941851615906,Other
+1410,boa of mobile backing,NEGATIVE,-0.980626106262207,Other
+1411,nice,POSITIVE,0.9998552799224854,Other
+1412,faster bank of Abissinya,POSITIVE,0.9722140431404114,Other
+1413,i would have given it a lower if it was possible because it crush so much and it take the bank so long to fix the bug,NEGATIVE,-0.9996716976165771,Stability
+1414,it just doesn't work...so frustrating,NEGATIVE,-0.999774158000946,Other
+1415,like,POSITIVE,0.9910564422607422,Other
+1416,it's not work correctly... you must have update it,NEGATIVE,-0.9998013377189636,Other
+1417,"the app gets a considerable improvements like language , QR scanner and unlimited transfers survice. but BOA Please do alot on its fastness and convenient when we login and making a transactions.",POSITIVE,0.9575353264808655,Account
+1418,after i typed in my password it says successfully logged out ...and goes back to the first page,NEGATIVE,-0.585689902305603,Account
+1419,good but they don't update enough don't add new things,NEGATIVE,-0.9693678617477417,Other
+1420,very good,POSITIVE,0.9998520612716675,Other
+1421,thank you,POSITIVE,0.9998352527618408,Other
+1422,it doesn't work period z slowest mobile banking ever i would rather use *815#,NEGATIVE,-0.9990907907485962,Stability
+1423,"after activated the application it not allowed to sign , automatically it is turn off In my phone, why ?",NEGATIVE,-0.9973752498626709,Account
+1424,good application,POSITIVE,0.999854564666748,Other
+1425,this version is not working for me I cannot even buy card. I cannot send money,NEGATIVE,-0.9995684027671814,Features
+1426,"It can't actively on initialization, it says incorrect OTP getting the exact OTP",NEGATIVE,-0.9996182918548584,Account
+1427,always problematic hardly works,NEGATIVE,-0.9995555281639099,Other
+1428,best app,POSITIVE,0.999686598777771,Other
+1429,very good,POSITIVE,0.9998520612716675,Other
+1430,"worst app and Bank ever u be ashamed, scammer",NEGATIVE,-0.9998050332069397,Other
+1431,great BoA,POSITIVE,0.9992689490318298,Other
+1432,best,POSITIVE,0.9997941851615906,Other
+1433,i have went to the bank so many times because i couldn't make any transaction i can only see my balance nothing else so what is the point of having mobile banking if i can't make any transaction with it please work in that,NEGATIVE,-0.9988333582878113,Other
+1434,good,POSITIVE,0.9998161196708679,Other
+1435,good,POSITIVE,0.9998161196708679,Other
+1436,there is no speed,NEGATIVE,-0.9994422793388367,Other
+1437,"For anyone who wants to download it, just don't!!!",NEGATIVE,-0.9993981122970581,Other
+1438,wonderful,POSITIVE,0.9998772144317627,Other
+1439,all worck,NEGATIVE,-0.9971314668655396,Other
+1440,Loved it,POSITIVE,0.9998797178268433,Other
+1441,Wow,POSITIVE,0.999592125415802,Other
+1442,"Edit: New bug, app not letting me type in my otp codes. Shameful Why does this app not allow me to use it while having developer options on? Did y'all consider that I might, perhaps, be an actual developer? Why am I expected to toggle the option on and off just to bank (restarting my phone when I do)? Why is the message labled as somthing that will ""smoothen"" the experience? This is like the most ""security consultant"" thing to implement in an app. Please invest in actual security, not this mess.",NEGATIVE,-0.9985970854759216,Stability
+1443,Improved to be the best,POSITIVE,0.9998570680618286,Other
+1444,BoA,NEGATIVE,-0.7410506010055542,Other
+1445,"Decent, but there problems sometimes it says error When i transfer money but infact it transferred because of this bug i transferred 2 times instead of 1 and also we can't transfer money to others telebirr acc we only can to our self BOE Dev fix this !!!",NEGATIVE,-0.9974843263626099,Stability
+1446,BoA Greqt Ethiopian bank.,NEGATIVE,-0.8457722663879395,Other
+1447,"The bug is still there,the app crashes every time i try to log in, especially in old phones like my Galaxy A32",NEGATIVE,-0.9994600415229797,Stability
+1448,Almost better compared to cbe where it is not qualified for,NEGATIVE,-0.9741679430007935,Other
+1449,what awesome apps. it is very simple to use and more much important apps.,POSITIVE,0.9998214840888977,Other
+1450,Wonderfull app,POSITIVE,0.9998815059661865,Other
+1451,i can't use this app why?,NEGATIVE,-0.9993101358413696,Other
+1452,Worst mobile banking app I ever experienced I was blaming other apps but comparing with this they're too much better!!!! It clashes it takes much longer time to login while loading in short it's a complete of trash,NEGATIVE,-0.9997013211250305,Account
+1453,Wow,POSITIVE,0.999592125415802,Other
+1454,bro the worst app made by human kind!! as a software engineer it make me so sad seeing enterprise as big as BOA make apps like this. it is a disgrace for our country!!,NEGATIVE,-0.9998133778572083,Other
+1455,AGA B Girja Miss language of admin Afaan oromo & other Itoophiyaa languages,NEGATIVE,-0.9959415793418884,Other
+1456,Good app,POSITIVE,0.9998493194580078,Other
